@@ -486,6 +486,119 @@ Algeria;Viet Nam;Import Quantity;121245.0
 Algeria;Yemen;Export Quantity;152.0
 Algeria;Zambia;Import Quantity;119.0
 Algeria;Zimbabwe;Import Quantity;153.0
+Angola;Algeria;Import Quantity;36.0
+Angola;Antigua and Barbuda;Export Quantity;10.0
+Angola;Argentina;Import Quantity;38686.0
+Angola;Australia;Import Quantity;772.0
+Angola;Austria;Import Quantity;1284.0
+Angola;Belgium;Export Quantity;50.0
+Angola;Belgium;Import Quantity;74174.0
+Angola;Bosnia and Herzegovina;Import Quantity;270.0
+Angola;Botswana;Import Quantity;424.0
+Angola;Brazil;Import Quantity;798323.0
+Angola;Cabo Verde;Export Quantity;0.0
+Angola;Canada;Export Quantity;24.0
+Angola;Canada;Import Quantity;54109.0
+Angola;Chile;Import Quantity;390.0
+Angola;China, Hong Kong SAR;Export Quantity;4.0
+Angola;China, Hong Kong SAR;Import Quantity;0.0
+Angola;China, Taiwan Province of;Import Quantity;3.0
+Angola;China, mainland;Export Quantity;174.0
+Angola;China, mainland;Import Quantity;27143.0
+Angola;Colombia;Import Quantity;739.0
+Angola;Congo;Export Quantity;442.0
+Angola;Congo;Import Quantity;3415.0
+Angola;Croatia;Import Quantity;241.0
+Angola;Cyprus;Import Quantity;26.0
+Angola;Czechia;Import Quantity;14.0
+Angola;Côte d'Ivoire;Export Quantity;0.0
+Angola;Côte d'Ivoire;Import Quantity;489.0
+Angola;Denmark;Import Quantity;5948.0
+Angola;Egypt;Import Quantity;6014.0
+Angola;Estonia;Import Quantity;52.0
+Angola;Eswatini;Import Quantity;0.0
+Angola;France;Export Quantity;0.0
+Angola;France;Import Quantity;217739.0
+Angola;Georgia;Import Quantity;19432.0
+Angola;Germany;Export Quantity;71.0
+Angola;Germany;Import Quantity;62013.0
+Angola;Ghana;Export Quantity;79.0
+Angola;Ghana;Import Quantity;26.0
+Angola;Greece;Import Quantity;421.0
+Angola;Honduras;Import Quantity;0.0
+Angola;Hungary;Import Quantity;2842.0
+Angola;India;Export Quantity;38.0
+Angola;India;Import Quantity;77353.0
+Angola;Indonesia;Import Quantity;56730.0
+Angola;Ireland;Export Quantity;0.0
+Angola;Ireland;Import Quantity;3852.0
+Angola;Israel;Import Quantity;1216.0
+Angola;Italy;Export Quantity;0.0
+Angola;Italy;Import Quantity;26278.0
+Angola;Jordan;Import Quantity;178.0
+Angola;Kenya;Import Quantity;116.0
+Angola;Latvia;Import Quantity;27264.0
+Angola;Lebanon;Export Quantity;180.0
+Angola;Lebanon;Import Quantity;278.0
+Angola;Lithuania;Export Quantity;499.0
+Angola;Lithuania;Import Quantity;5276.0
+Angola;Malaysia;Export Quantity;22.0
+Angola;Malaysia;Import Quantity;156848.0
+Angola;Malta;Import Quantity;966.0
+Angola;Mauritius;Import Quantity;36.0
+Angola;Mexico;Import Quantity;7302.0
+Angola;Morocco;Export Quantity;7577.0
+Angola;Morocco;Import Quantity;10768.0
+Angola;Namibia;Export Quantity;1636.0
+Angola;Namibia;Import Quantity;11135.0
+Angola;Netherlands;Import Quantity;47245.0
+Angola;New Zealand;Import Quantity;5612.0
+Angola;Nicaragua;Import Quantity;0.0
+Angola;Norway;Import Quantity;4.0
+Angola;Oman;Import Quantity;14372.0
+Angola;Pakistan;Import Quantity;7766.0
+Angola;Paraguay;Export Quantity;28.0
+Angola;Paraguay;Import Quantity;9679.0
+Angola;Peru;Import Quantity;36.0
+Angola;Philippines;Import Quantity;27.0
+Angola;Poland;Export Quantity;0.0
+Angola;Poland;Import Quantity;16170.0
+Angola;Portugal;Export Quantity;7183.0
+Angola;Portugal;Import Quantity;364325.0
+Angola;Republic of Korea;Export Quantity;0.0
+Angola;Republic of Korea;Import Quantity;493.0
+Angola;Republic of Moldova;Import Quantity;0.0
+Angola;Romania;Import Quantity;141.0
+Angola;Russian Federation;Import Quantity;7752.0
+Angola;Sao Tome and Principe;Export Quantity;25.0
+Angola;Sao Tome and Principe;Import Quantity;628.0
+Angola;Senegal;Import Quantity;151.0
+Angola;Serbia;Import Quantity;198.0
+Angola;Singapore;Import Quantity;19404.0
+Angola;Slovakia;Import Quantity;17.0
+Angola;South Africa;Export Quantity;16.0
+Angola;South Africa;Import Quantity;206722.0
+Angola;Spain;Export Quantity;76.0
+Angola;Spain;Import Quantity;25329.0
+Angola;Sri Lanka;Import Quantity;436.0
+Angola;Sweden;Import Quantity;3641.0
+Angola;Switzerland;Import Quantity;66.0
+Angola;Thailand;Export Quantity;0.0
+Angola;Thailand;Import Quantity;794244.0
+Angola;Togo;Export Quantity;77.0
+Angola;Tunisia;Import Quantity;472.0
+Angola;Turkey;Import Quantity;316661.0
+Angola;Uganda;Export Quantity;0.0
+Angola;Uganda;Import Quantity;839.0
+Angola;Ukraine;Import Quantity;89785.0
+Angola;United Kingdom;Export Quantity;300.0
+Angola;United Kingdom;Import Quantity;17169.0
+Angola;United Republic of Tanzania;Export Quantity;0.0
+Angola;United Republic of Tanzania;Import Quantity;19934.0
+Angola;United States of America;Import Quantity;209169.0
+Angola;Uruguay;Import Quantity;3649.0
+Angola;Zambia;Import Quantity;1261.0
+Angola;Zimbabwe;Export Quantity;0.0
 Antigua and Barbuda;Andorra;Import Quantity;0.0
 Antigua and Barbuda;Angola;Import Quantity;10.0
 Antigua and Barbuda;Anguilla;Export Quantity;163.0
@@ -5156,190 +5269,223 @@ Cambodia;United States of America;Export Quantity;7074.0
 Cambodia;United States of America;Import Quantity;122959.0
 Cambodia;Viet Nam;Export Quantity;360648.0
 Cambodia;Viet Nam;Import Quantity;189596.0
-Cameroon;Albania;Export Quantity;18.0
+Cameroon;Albania;Export Quantity;36.0
 Cameroon;Albania;Import Quantity;0.0
-Cameroon;Algeria;Export Quantity;8604.0
-Cameroon;Algeria;Import Quantity;10.0
+Cameroon;Algeria;Export Quantity;16061.0
+Cameroon;Algeria;Import Quantity;29.0
 Cameroon;Andorra;Import Quantity;1.0
 Cameroon;Antigua and Barbuda;Import Quantity;17207.0
-Cameroon;Argentina;Import Quantity;117559.0
-Cameroon;Australia;Import Quantity;75.0
-Cameroon;Austria;Import Quantity;115.0
+Cameroon;Argentina;Import Quantity;238312.0
+Cameroon;Armenia;Export Quantity;25.0
+Cameroon;Australia;Import Quantity;127.0
+Cameroon;Austria;Export Quantity;2.0
+Cameroon;Austria;Import Quantity;301.0
 Cameroon;Azerbaijan;Import Quantity;0.0
 Cameroon;Bahrain;Import Quantity;0.0
-Cameroon;Bangladesh;Export Quantity;40986.0
+Cameroon;Bangladesh;Export Quantity;81972.0
 Cameroon;Bangladesh;Import Quantity;0.0
 Cameroon;Barbados;Import Quantity;0.0
-Cameroon;Belgium;Export Quantity;174123.0
-Cameroon;Belgium;Import Quantity;27163.0
-Cameroon;Benin;Export Quantity;10.0
-Cameroon;Bosnia and Herzegovina;Import Quantity;21.0
-Cameroon;Brazil;Export Quantity;20.0
-Cameroon;Brazil;Import Quantity;53565.0
+Cameroon;Belarus;Export Quantity;449.0
+Cameroon;Belarus;Import Quantity;8.0
+Cameroon;Belgium;Export Quantity;314906.0
+Cameroon;Belgium;Import Quantity;71499.0
+Cameroon;Benin;Export Quantity;20.0
+Cameroon;Bosnia and Herzegovina;Export Quantity;12.0
+Cameroon;Bosnia and Herzegovina;Import Quantity;45.0
+Cameroon;Brazil;Export Quantity;78.0
+Cameroon;Brazil;Import Quantity;119879.0
 Cameroon;Brunei Darussalam;Import Quantity;125.0
-Cameroon;Bulgaria;Export Quantity;150.0
+Cameroon;Bulgaria;Export Quantity;1203.0
 Cameroon;Bulgaria;Import Quantity;1.0
-Cameroon;Burkina Faso;Export Quantity;3941.0
-Cameroon;Burkina Faso;Import Quantity;12.0
-Cameroon;Cambodia;Import Quantity;96.0
-Cameroon;Canada;Export Quantity;625.0
-Cameroon;Canada;Import Quantity;116736.0
-Cameroon;Central African Republic;Export Quantity;11362.0
-Cameroon;Chad;Export Quantity;21375.0
-Cameroon;Chad;Import Quantity;6730.0
-Cameroon;Chile;Import Quantity;162.0
-Cameroon;China, Hong Kong SAR;Export Quantity;14.0
-Cameroon;China, Hong Kong SAR;Import Quantity;163.0
-Cameroon;China, Taiwan Province of;Export Quantity;210.0
-Cameroon;China, Taiwan Province of;Import Quantity;43.0
-Cameroon;China, mainland;Export Quantity;8471.0
-Cameroon;China, mainland;Import Quantity;65391.0
-Cameroon;Congo;Export Quantity;6591.0
-Cameroon;Congo;Import Quantity;64.0
+Cameroon;Burkina Faso;Export Quantity;5455.0
+Cameroon;Burkina Faso;Import Quantity;162.0
+Cameroon;Cambodia;Import Quantity;192.0
+Cameroon;Canada;Export Quantity;1365.0
+Cameroon;Canada;Import Quantity;223902.0
+Cameroon;Central African Republic;Export Quantity;32826.0
+Cameroon;Central African Republic;Import Quantity;301.0
+Cameroon;Chad;Export Quantity;42750.0
+Cameroon;Chad;Import Quantity;13460.0
+Cameroon;Chile;Import Quantity;287.0
+Cameroon;China, Hong Kong SAR;Export Quantity;31.0
+Cameroon;China, Hong Kong SAR;Import Quantity;181.0
+Cameroon;China, Taiwan Province of;Export Quantity;620.0
+Cameroon;China, Taiwan Province of;Import Quantity;137.0
+Cameroon;China, mainland;Export Quantity;16323.0
+Cameroon;China, mainland;Import Quantity;189067.0
+Cameroon;Congo;Export Quantity;21970.0
+Cameroon;Congo;Import Quantity;269.0
 Cameroon;Costa Rica;Import Quantity;3.0
-Cameroon;Croatia;Import Quantity;2.0
-Cameroon;Cyprus;Import Quantity;179.0
-Cameroon;Czechia;Import Quantity;4709.0
+Cameroon;Croatia;Export Quantity;36.0
+Cameroon;Croatia;Import Quantity;29.0
+Cameroon;Cyprus;Export Quantity;0.0
+Cameroon;Cyprus;Import Quantity;448.0
+Cameroon;Czechia;Export Quantity;1873.0
+Cameroon;Czechia;Import Quantity;7142.0
 Cameroon;Côte d'Ivoire;Export Quantity;713.0
-Cameroon;Côte d'Ivoire;Import Quantity;362.0
-Cameroon;Democratic Republic of the Congo;Export Quantity;181.0
-Cameroon;Democratic Republic of the Congo;Import Quantity;340.0
-Cameroon;Denmark;Import Quantity;853.0
+Cameroon;Côte d'Ivoire;Import Quantity;904.0
+Cameroon;Democratic Republic of the Congo;Export Quantity;362.0
+Cameroon;Democratic Republic of the Congo;Import Quantity;680.0
+Cameroon;Denmark;Export Quantity;8.0
+Cameroon;Denmark;Import Quantity;926.0
 Cameroon;Ecuador;Import Quantity;57.0
-Cameroon;Egypt;Export Quantity;359.0
-Cameroon;Egypt;Import Quantity;1081.0
+Cameroon;Egypt;Export Quantity;435.0
+Cameroon;Egypt;Import Quantity;2319.0
 Cameroon;Equatorial Guinea;Export Quantity;3409.0
 Cameroon;Equatorial Guinea;Import Quantity;190.0
 Cameroon;Eritrea;Export Quantity;246.0
 Cameroon;Eritrea;Import Quantity;0.0
-Cameroon;Estonia;Import Quantity;12.0
-Cameroon;Eswatini;Import Quantity;84.0
+Cameroon;Estonia;Import Quantity;14.0
+Cameroon;Eswatini;Import Quantity;168.0
 Cameroon;Ethiopia;Export Quantity;0.0
 Cameroon;Ethiopia;Import Quantity;0.0
-Cameroon;Finland;Export Quantity;302.0
-Cameroon;France;Export Quantity;87177.0
-Cameroon;France;Import Quantity;295431.0
-Cameroon;Gabon;Export Quantity;6517.0
-Cameroon;Gabon;Import Quantity;4873.0
+Cameroon;Fiji;Export Quantity;26.0
+Cameroon;Finland;Export Quantity;507.0
+Cameroon;France;Export Quantity;228893.0
+Cameroon;France;Import Quantity;610207.0
+Cameroon;Gabon;Export Quantity;13034.0
+Cameroon;Gabon;Import Quantity;9746.0
 Cameroon;Gambia;Import Quantity;0.0
 Cameroon;Georgia;Export Quantity;19.0
-Cameroon;Germany;Export Quantity;16512.0
-Cameroon;Germany;Import Quantity;17635.0
-Cameroon;Ghana;Export Quantity;13.0
-Cameroon;Ghana;Import Quantity;638.0
-Cameroon;Greece;Export Quantity;78.0
-Cameroon;Greece;Import Quantity;46.0
+Cameroon;Germany;Export Quantity;28574.0
+Cameroon;Germany;Import Quantity;35409.0
+Cameroon;Ghana;Export Quantity;26.0
+Cameroon;Ghana;Import Quantity;1245.0
+Cameroon;Greece;Export Quantity;82.0
+Cameroon;Greece;Import Quantity;55.0
 Cameroon;Guatemala;Import Quantity;17589.0
-Cameroon;Haiti;Import Quantity;66.0
+Cameroon;Haiti;Import Quantity;132.0
+Cameroon;Hungary;Export Quantity;574.0
 Cameroon;Hungary;Import Quantity;14.0
-Cameroon;India;Export Quantity;18646.0
-Cameroon;India;Import Quantity;94890.0
-Cameroon;Indonesia;Export Quantity;26152.0
-Cameroon;Indonesia;Import Quantity;4939.0
+Cameroon;India;Export Quantity;40573.0
+Cameroon;India;Import Quantity;194680.0
+Cameroon;Indonesia;Export Quantity;65605.0
+Cameroon;Indonesia;Import Quantity;16311.0
 Cameroon;Iran (Islamic Republic of);Export Quantity;882.0
-Cameroon;Iran (Islamic Republic of);Import Quantity;6.0
-Cameroon;Ireland;Export Quantity;114.0
-Cameroon;Ireland;Import Quantity;1040.0
-Cameroon;Israel;Export Quantity;18.0
-Cameroon;Israel;Import Quantity;144.0
-Cameroon;Italy;Export Quantity;63364.0
-Cameroon;Italy;Import Quantity;3820.0
+Cameroon;Iran (Islamic Republic of);Import Quantity;8.0
+Cameroon;Ireland;Export Quantity;115.0
+Cameroon;Ireland;Import Quantity;1715.0
+Cameroon;Israel;Export Quantity;36.0
+Cameroon;Israel;Import Quantity;246.0
+Cameroon;Italy;Export Quantity;80773.0
+Cameroon;Italy;Import Quantity;15939.0
 Cameroon;Jamaica;Import Quantity;0.0
-Cameroon;Japan;Export Quantity;301.0
+Cameroon;Japan;Export Quantity;640.0
 Cameroon;Japan;Import Quantity;22.0
-Cameroon;Kenya;Import Quantity;18.0
-Cameroon;Lebanon;Export Quantity;61.0
-Cameroon;Lebanon;Import Quantity;561.0
+Cameroon;Jordan;Import Quantity;18.0
+Cameroon;Kenya;Import Quantity;20.0
+Cameroon;Kuwait;Export Quantity;0.0
+Cameroon;Lebanon;Export Quantity;133.0
+Cameroon;Lebanon;Import Quantity;1097.0
 Cameroon;Liberia;Import Quantity;6504.0
-Cameroon;Libya;Export Quantity;4.0
+Cameroon;Libya;Export Quantity;8.0
+Cameroon;Lithuania;Export Quantity;0.0
 Cameroon;Lithuania;Import Quantity;0.0
-Cameroon;Luxembourg;Export Quantity;0.0
+Cameroon;Luxembourg;Export Quantity;4576.0
 Cameroon;Luxembourg;Import Quantity;3.0
 Cameroon;Madagascar;Export Quantity;0.0
 Cameroon;Madagascar;Import Quantity;0.0
 Cameroon;Malawi;Import Quantity;0.0
-Cameroon;Malaysia;Export Quantity;47453.0
-Cameroon;Malaysia;Import Quantity;57894.0
+Cameroon;Malaysia;Export Quantity;82153.0
+Cameroon;Malaysia;Import Quantity;127847.0
 Cameroon;Mali;Import Quantity;0.0
-Cameroon;Malta;Import Quantity;389.0
+Cameroon;Malta;Export Quantity;0.0
+Cameroon;Malta;Import Quantity;669.0
+Cameroon;Mauritania;Export Quantity;19.0
 Cameroon;Mauritania;Import Quantity;45.0
-Cameroon;Mauritius;Export Quantity;496.0
+Cameroon;Mauritius;Export Quantity;992.0
 Cameroon;Mauritius;Import Quantity;23.0
-Cameroon;Mexico;Import Quantity;711.0
-Cameroon;Morocco;Export Quantity;154.0
-Cameroon;Morocco;Import Quantity;1924.0
+Cameroon;Mexico;Export Quantity;3.0
+Cameroon;Mexico;Import Quantity;1527.0
+Cameroon;Morocco;Export Quantity;811.0
+Cameroon;Morocco;Import Quantity;4510.0
 Cameroon;Myanmar;Import Quantity;39500.0
+Cameroon;Namibia;Export Quantity;0.0
 Cameroon;Nepal;Import Quantity;0.0
-Cameroon;Netherlands;Export Quantity;121928.0
-Cameroon;Netherlands;Import Quantity;16973.0
-Cameroon;New Zealand;Import Quantity;3019.0
-Cameroon;Nicaragua;Export Quantity;27.0
-Cameroon;Nigeria;Export Quantity;45141.0
-Cameroon;Nigeria;Import Quantity;9400.0
+Cameroon;Netherlands;Export Quantity;240296.0
+Cameroon;Netherlands;Import Quantity;38535.0
+Cameroon;New Zealand;Export Quantity;0.0
+Cameroon;New Zealand;Import Quantity;5386.0
+Cameroon;Nicaragua;Export Quantity;74.0
+Cameroon;Nigeria;Export Quantity;90282.0
+Cameroon;Nigeria;Import Quantity;18800.0
 Cameroon;Norfolk Island;Import Quantity;0.0
-Cameroon;Norway;Import Quantity;3.0
-Cameroon;Oman;Import Quantity;2029.0
+Cameroon;North Macedonia;Export Quantity;6.0
+Cameroon;Norway;Export Quantity;23.0
+Cameroon;Norway;Import Quantity;6.0
+Cameroon;Oman;Import Quantity;4911.0
 Cameroon;Pakistan;Export Quantity;480.0
-Cameroon;Pakistan;Import Quantity;12625.0
-Cameroon;Papua New Guinea;Import Quantity;2.0
-Cameroon;Peru;Import Quantity;101.0
-Cameroon;Philippines;Export Quantity;32.0
-Cameroon;Philippines;Import Quantity;758.0
-Cameroon;Poland;Export Quantity;1717.0
-Cameroon;Poland;Import Quantity;2318.0
-Cameroon;Portugal;Export Quantity;3228.0
-Cameroon;Portugal;Import Quantity;171.0
-Cameroon;Republic of Korea;Export Quantity;37.0
-Cameroon;Republic of Korea;Import Quantity;9.0
-Cameroon;Republic of Moldova;Import Quantity;20.0
-Cameroon;Romania;Export Quantity;318.0
+Cameroon;Pakistan;Import Quantity;36976.0
+Cameroon;Papua New Guinea;Import Quantity;4.0
+Cameroon;Paraguay;Import Quantity;27.0
+Cameroon;Peru;Import Quantity;215.0
+Cameroon;Philippines;Export Quantity;48.0
+Cameroon;Philippines;Import Quantity;1679.0
+Cameroon;Poland;Export Quantity;3115.0
+Cameroon;Poland;Import Quantity;4574.0
+Cameroon;Portugal;Export Quantity;8051.0
+Cameroon;Portugal;Import Quantity;334.0
+Cameroon;Republic of Korea;Export Quantity;57.0
+Cameroon;Republic of Korea;Import Quantity;28.0
+Cameroon;Republic of Moldova;Export Quantity;1.0
+Cameroon;Republic of Moldova;Import Quantity;59.0
+Cameroon;Romania;Export Quantity;789.0
 Cameroon;Romania;Import Quantity;1.0
-Cameroon;Russian Federation;Export Quantity;706.0
-Cameroon;Russian Federation;Import Quantity;300034.0
+Cameroon;Russian Federation;Export Quantity;1815.0
+Cameroon;Russian Federation;Import Quantity;578664.0
 Cameroon;Rwanda;Import Quantity;0.0
-Cameroon;Sao Tome and Principe;Export Quantity;17.0
-Cameroon;Sao Tome and Principe;Import Quantity;31.0
-Cameroon;Saudi Arabia;Import Quantity;51.0
-Cameroon;Senegal;Import Quantity;24.0
-Cameroon;Serbia;Import Quantity;36.0
+Cameroon;Sao Tome and Principe;Export Quantity;48.0
+Cameroon;Sao Tome and Principe;Import Quantity;125.0
+Cameroon;Saudi Arabia;Import Quantity;102.0
+Cameroon;Senegal;Export Quantity;0.0
+Cameroon;Senegal;Import Quantity;302.0
+Cameroon;Serbia;Export Quantity;18.0
+Cameroon;Serbia;Import Quantity;83.0
 Cameroon;Seychelles;Import Quantity;15.0
-Cameroon;Sierra Leone;Import Quantity;1903.0
-Cameroon;Singapore;Export Quantity;1090.0
-Cameroon;Singapore;Import Quantity;1779.0
-Cameroon;Slovakia;Import Quantity;39.0
-Cameroon;Slovenia;Export Quantity;484.0
-Cameroon;Slovenia;Import Quantity;30.0
-Cameroon;South Africa;Export Quantity;190.0
-Cameroon;South Africa;Import Quantity;9014.0
-Cameroon;Spain;Export Quantity;14710.0
-Cameroon;Spain;Import Quantity;16844.0
-Cameroon;Sri Lanka;Export Quantity;101.0
-Cameroon;Sri Lanka;Import Quantity;7.0
-Cameroon;Sudan;Import Quantity;4196.0
-Cameroon;Sweden;Export Quantity;108.0
+Cameroon;Sierra Leone;Import Quantity;3806.0
+Cameroon;Singapore;Export Quantity;10017.0
+Cameroon;Singapore;Import Quantity;3559.0
+Cameroon;Slovakia;Export Quantity;2439.0
+Cameroon;Slovakia;Import Quantity;91.0
+Cameroon;Slovenia;Export Quantity;615.0
+Cameroon;Slovenia;Import Quantity;67.0
+Cameroon;South Africa;Export Quantity;292.0
+Cameroon;South Africa;Import Quantity;18570.0
+Cameroon;Spain;Export Quantity;34171.0
+Cameroon;Spain;Import Quantity;38867.0
+Cameroon;Sri Lanka;Export Quantity;182.0
+Cameroon;Sri Lanka;Import Quantity;13.0
+Cameroon;Sudan;Import Quantity;8392.0
+Cameroon;Sweden;Export Quantity;216.0
 Cameroon;Sweden;Import Quantity;23.0
-Cameroon;Switzerland;Export Quantity;85.0
-Cameroon;Switzerland;Import Quantity;2444.0
+Cameroon;Switzerland;Export Quantity;1373.0
+Cameroon;Switzerland;Import Quantity;2593.0
 Cameroon;Syrian Arab Republic;Import Quantity;0.0
-Cameroon;Thailand;Import Quantity;1241593.0
-Cameroon;Togo;Export Quantity;954.0
-Cameroon;Togo;Import Quantity;212.0
-Cameroon;Trinidad and Tobago;Import Quantity;18.0
-Cameroon;Tunisia;Import Quantity;5752.0
-Cameroon;Turkey;Export Quantity;16958.0
-Cameroon;Turkey;Import Quantity;10953.0
-Cameroon;United Arab Emirates;Import Quantity;2228.0
-Cameroon;United Kingdom;Export Quantity;36770.0
-Cameroon;United Kingdom;Import Quantity;2650.0
-Cameroon;United States of America;Export Quantity;21160.0
-Cameroon;United States of America;Import Quantity;69235.0
+Cameroon;Thailand;Export Quantity;295.0
+Cameroon;Thailand;Import Quantity;2730668.0
+Cameroon;Togo;Export Quantity;1163.0
+Cameroon;Togo;Import Quantity;524.0
+Cameroon;Trinidad and Tobago;Import Quantity;36.0
+Cameroon;Tunisia;Export Quantity;21.0
+Cameroon;Tunisia;Import Quantity;10855.0
+Cameroon;Turkey;Export Quantity;31215.0
+Cameroon;Turkey;Import Quantity;45356.0
+Cameroon;Ukraine;Export Quantity;559.0
+Cameroon;Ukraine;Import Quantity;6161.0
+Cameroon;United Arab Emirates;Import Quantity;4456.0
+Cameroon;United Kingdom;Export Quantity;73545.0
+Cameroon;United Kingdom;Import Quantity;4899.0
+Cameroon;United Republic of Tanzania;Export Quantity;0.0
+Cameroon;United Republic of Tanzania;Import Quantity;92.0
+Cameroon;United States of America;Export Quantity;41348.0
+Cameroon;United States of America;Import Quantity;141695.0
 Cameroon;Unspecified Area;Import Quantity;4622.0
 Cameroon;Uruguay;Import Quantity;542.0
 Cameroon;Venezuela (Bolivarian Republic of);Import Quantity;0.0
 Cameroon;Viet Nam;Export Quantity;8657.0
 Cameroon;Viet Nam;Import Quantity;29273.0
 Cameroon;Zambia;Import Quantity;72.0
-Cameroon;Zimbabwe;Import Quantity;0.0
+Cameroon;Zimbabwe;Import Quantity;11.0
 Canada;Afghanistan;Export Quantity;107.0
 Canada;Afghanistan;Import Quantity;443.0
 Canada;Albania;Export Quantity;2067.0
@@ -5783,6 +5929,65 @@ Central African Republic;United Arab Emirates;Import Quantity;382.0
 Central African Republic;United States of America;Import Quantity;2522.0
 Central African Republic;Unspecified Area;Import Quantity;86.0
 Central African Republic;Viet Nam;Import Quantity;31.0
+Chad;Austria;Import Quantity;0.0
+Chad;Barbados;Export Quantity;0.0
+Chad;Belgium;Import Quantity;18678.0
+Chad;Brazil;Import Quantity;496.0
+Chad;Cameroon;Export Quantity;6730.0
+Chad;Cameroon;Import Quantity;21375.0
+Chad;Canada;Export Quantity;0.0
+Chad;Canada;Import Quantity;50.0
+Chad;Chile;Import Quantity;1.0
+Chad;China, Hong Kong SAR;Export Quantity;1.0
+Chad;China, Taiwan Province of;Import Quantity;75.0
+Chad;China, mainland;Export Quantity;200.0
+Chad;China, mainland;Import Quantity;10581.0
+Chad;Congo;Export Quantity;127.0
+Chad;Denmark;Import Quantity;260.0
+Chad;Egypt;Import Quantity;1161.0
+Chad;France;Export Quantity;1.0
+Chad;France;Import Quantity;10200.0
+Chad;Germany;Export Quantity;886.0
+Chad;Germany;Import Quantity;3288.0
+Chad;Greece;Export Quantity;155.0
+Chad;India;Export Quantity;2474.0
+Chad;India;Import Quantity;1006.0
+Chad;Indonesia;Export Quantity;1835.0
+Chad;Indonesia;Import Quantity;232.0
+Chad;Ireland;Export Quantity;0.0
+Chad;Ireland;Import Quantity;650.0
+Chad;Israel;Import Quantity;0.0
+Chad;Italy;Export Quantity;254.0
+Chad;Italy;Import Quantity;89.0
+Chad;Jordan;Import Quantity;30.0
+Chad;Kenya;Import Quantity;234.0
+Chad;Lebanon;Import Quantity;136.0
+Chad;Madagascar;Import Quantity;61.0
+Chad;Malaysia;Import Quantity;237.0
+Chad;Malta;Import Quantity;516.0
+Chad;Morocco;Import Quantity;215.0
+Chad;Netherlands;Export Quantity;0.0
+Chad;Netherlands;Import Quantity;1687.0
+Chad;New Zealand;Import Quantity;50.0
+Chad;Poland;Import Quantity;2839.0
+Chad;Portugal;Export Quantity;4208.0
+Chad;Senegal;Import Quantity;1532.0
+Chad;Serbia;Export Quantity;27.0
+Chad;South Africa;Export Quantity;0.0
+Chad;South Africa;Import Quantity;55.0
+Chad;Spain;Export Quantity;80.0
+Chad;Spain;Import Quantity;1404.0
+Chad;Sri Lanka;Import Quantity;5.0
+Chad;Switzerland;Import Quantity;24.0
+Chad;Thailand;Export Quantity;200.0
+Chad;Thailand;Import Quantity;6260.0
+Chad;Tunisia;Export Quantity;34.0
+Chad;Tunisia;Import Quantity;926.0
+Chad;Turkey;Export Quantity;15993.0
+Chad;Turkey;Import Quantity;12112.0
+Chad;Ukraine;Import Quantity;1187.0
+Chad;United Kingdom;Import Quantity;6.0
+Chad;United States of America;Import Quantity;427.0
 Chile;Algeria;Export Quantity;448.0
 Chile;Angola;Export Quantity;390.0
 Chile;Anguilla;Export Quantity;30.0
@@ -8938,6 +9143,78 @@ Côte d'Ivoire;Uzbekistan;Import Quantity;1.0
 Côte d'Ivoire;Venezuela (Bolivarian Republic of);Import Quantity;24.0
 Côte d'Ivoire;Viet Nam;Export Quantity;451464.0
 Côte d'Ivoire;Viet Nam;Import Quantity;450893.0
+Democratic People's Republic of Korea;Antigua and Barbuda;Export Quantity;12.0
+Democratic People's Republic of Korea;Armenia;Export Quantity;6.0
+Democratic People's Republic of Korea;Austria;Export Quantity;51.0
+Democratic People's Republic of Korea;Barbados;Export Quantity;0.0
+Democratic People's Republic of Korea;Belarus;Export Quantity;0.0
+Democratic People's Republic of Korea;Belgium;Import Quantity;1.0
+Democratic People's Republic of Korea;Brazil;Import Quantity;187.0
+Democratic People's Republic of Korea;Brunei Darussalam;Export Quantity;38.0
+Democratic People's Republic of Korea;Bulgaria;Import Quantity;48.0
+Democratic People's Republic of Korea;Burkina Faso;Import Quantity;340.0
+Democratic People's Republic of Korea;Canada;Export Quantity;0.0
+Democratic People's Republic of Korea;Canada;Import Quantity;23.0
+Democratic People's Republic of Korea;China, Hong Kong SAR;Import Quantity;39.0
+Democratic People's Republic of Korea;China, Taiwan Province of;Export Quantity;23.0
+Democratic People's Republic of Korea;China, mainland;Export Quantity;58640.0
+Democratic People's Republic of Korea;China, mainland;Import Quantity;598229.0
+Democratic People's Republic of Korea;Congo;Export Quantity;0.0
+Democratic People's Republic of Korea;Costa Rica;Import Quantity;0.0
+Democratic People's Republic of Korea;Cyprus;Import Quantity;106.0
+Democratic People's Republic of Korea;Czechia;Import Quantity;0.0
+Democratic People's Republic of Korea;Denmark;Import Quantity;2.0
+Democratic People's Republic of Korea;Fiji;Export Quantity;4.0
+Democratic People's Republic of Korea;France;Import Quantity;1370.0
+Democratic People's Republic of Korea;Germany;Import Quantity;290.0
+Democratic People's Republic of Korea;Ghana;Export Quantity;0.0
+Democratic People's Republic of Korea;Guyana;Export Quantity;18.0
+Democratic People's Republic of Korea;Honduras;Export Quantity;0.0
+Democratic People's Republic of Korea;Honduras;Import Quantity;2809.0
+Democratic People's Republic of Korea;India;Export Quantity;24.0
+Democratic People's Republic of Korea;India;Import Quantity;1902.0
+Democratic People's Republic of Korea;Indonesia;Import Quantity;43.0
+Democratic People's Republic of Korea;Italy;Import Quantity;8.0
+Democratic People's Republic of Korea;Lebanon;Import Quantity;0.0
+Democratic People's Republic of Korea;Madagascar;Import Quantity;48.0
+Democratic People's Republic of Korea;Malawi;Import Quantity;99.0
+Democratic People's Republic of Korea;Malaysia;Import Quantity;203.0
+Democratic People's Republic of Korea;Mali;Export Quantity;59.0
+Democratic People's Republic of Korea;Mexico;Export Quantity;0.0
+Democratic People's Republic of Korea;Mexico;Import Quantity;0.0
+Democratic People's Republic of Korea;Mongolia;Export Quantity;9.0
+Democratic People's Republic of Korea;Mongolia;Import Quantity;235.0
+Democratic People's Republic of Korea;Netherlands;Import Quantity;24.0
+Democratic People's Republic of Korea;Nicaragua;Export Quantity;0.0
+Democratic People's Republic of Korea;Nicaragua;Import Quantity;1.0
+Democratic People's Republic of Korea;Pakistan;Export Quantity;14.0
+Democratic People's Republic of Korea;Peru;Import Quantity;97.0
+Democratic People's Republic of Korea;Philippines;Import Quantity;3109.0
+Democratic People's Republic of Korea;Poland;Export Quantity;0.0
+Democratic People's Republic of Korea;Romania;Import Quantity;6.0
+Democratic People's Republic of Korea;Russian Federation;Export Quantity;0.0
+Democratic People's Republic of Korea;Russian Federation;Import Quantity;11433.0
+Democratic People's Republic of Korea;Saint Lucia;Export Quantity;19.0
+Democratic People's Republic of Korea;Senegal;Export Quantity;17.0
+Democratic People's Republic of Korea;Serbia;Export Quantity;0.0
+Democratic People's Republic of Korea;Seychelles;Export Quantity;0.0
+Democratic People's Republic of Korea;Singapore;Import Quantity;17.0
+Democratic People's Republic of Korea;Solomon Islands;Export Quantity;0.0
+Democratic People's Republic of Korea;South Africa;Import Quantity;287.0
+Democratic People's Republic of Korea;Spain;Import Quantity;122.0
+Democratic People's Republic of Korea;Sri Lanka;Export Quantity;1.0
+Democratic People's Republic of Korea;Sri Lanka;Import Quantity;284.0
+Democratic People's Republic of Korea;Suriname;Export Quantity;201.0
+Democratic People's Republic of Korea;Switzerland;Import Quantity;1605.0
+Democratic People's Republic of Korea;Thailand;Import Quantity;373.0
+Democratic People's Republic of Korea;Uganda;Import Quantity;100.0
+Democratic People's Republic of Korea;Ukraine;Import Quantity;9183.0
+Democratic People's Republic of Korea;United Kingdom;Import Quantity;0.0
+Democratic People's Republic of Korea;United Republic of Tanzania;Export Quantity;0.0
+Democratic People's Republic of Korea;United Republic of Tanzania;Import Quantity;77.0
+Democratic People's Republic of Korea;Zambia;Export Quantity;0.0
+Democratic People's Republic of Korea;Zambia;Import Quantity;0.0
+Democratic People's Republic of Korea;Zimbabwe;Import Quantity;0.0
 Democratic Republic of the Congo;Argentina;Import Quantity;57574.0
 Democratic Republic of the Congo;Australia;Export Quantity;50.0
 Democratic Republic of the Congo;Austria;Import Quantity;333.0
@@ -9569,6 +9846,174 @@ Dominica;United States of America;Export Quantity;26.0
 Dominica;United States of America;Import Quantity;5349.0
 Dominica;Uruguay;Import Quantity;50.0
 Dominica;Zambia;Export Quantity;0.0
+Dominican Republic;Antigua and Barbuda;Export Quantity;986.0
+Dominican Republic;Antigua and Barbuda;Import Quantity;4.0
+Dominican Republic;Argentina;Export Quantity;65.0
+Dominican Republic;Argentina;Import Quantity;113227.0
+Dominican Republic;Armenia;Export Quantity;0.0
+Dominican Republic;Australia;Export Quantity;67.0
+Dominican Republic;Australia;Import Quantity;1166.0
+Dominican Republic;Austria;Export Quantity;20.0
+Dominican Republic;Austria;Import Quantity;2011.0
+Dominican Republic;Barbados;Export Quantity;559.0
+Dominican Republic;Barbados;Import Quantity;166.0
+Dominican Republic;Belarus;Export Quantity;81.0
+Dominican Republic;Belgium;Export Quantity;75753.0
+Dominican Republic;Belgium;Import Quantity;13094.0
+Dominican Republic;Bermuda;Export Quantity;4.0
+Dominican Republic;Bolivia (Plurinational State of);Export Quantity;8.0
+Dominican Republic;Bolivia (Plurinational State of);Import Quantity;0.0
+Dominican Republic;Bosnia and Herzegovina;Export Quantity;961.0
+Dominican Republic;Brazil;Export Quantity;28.0
+Dominican Republic;Brazil;Import Quantity;705824.0
+Dominican Republic;Bulgaria;Export Quantity;25.0
+Dominican Republic;Bulgaria;Import Quantity;49.0
+Dominican Republic;Canada;Export Quantity;17189.0
+Dominican Republic;Canada;Import Quantity;117543.0
+Dominican Republic;Chile;Export Quantity;2227.0
+Dominican Republic;Chile;Import Quantity;30360.0
+Dominican Republic;China, Hong Kong SAR;Export Quantity;25.0
+Dominican Republic;China, Hong Kong SAR;Import Quantity;73.0
+Dominican Republic;China, Taiwan Province of;Export Quantity;32.0
+Dominican Republic;China, Taiwan Province of;Import Quantity;722.0
+Dominican Republic;China, mainland;Export Quantity;116.0
+Dominican Republic;China, mainland;Import Quantity;18373.0
+Dominican Republic;Colombia;Export Quantity;1206.0
+Dominican Republic;Colombia;Import Quantity;39455.0
+Dominican Republic;Costa Rica;Export Quantity;877.0
+Dominican Republic;Costa Rica;Import Quantity;33013.0
+Dominican Republic;Croatia;Export Quantity;46.0
+Dominican Republic;Cyprus;Export Quantity;2.0
+Dominican Republic;Czechia;Export Quantity;68.0
+Dominican Republic;Czechia;Import Quantity;59.0
+Dominican Republic;Côte d'Ivoire;Export Quantity;3.0
+Dominican Republic;Côte d'Ivoire;Import Quantity;1111.0
+Dominican Republic;Denmark;Export Quantity;4472.0
+Dominican Republic;Denmark;Import Quantity;12369.0
+Dominican Republic;Ecuador;Export Quantity;76.0
+Dominican Republic;Ecuador;Import Quantity;9332.0
+Dominican Republic;Egypt;Import Quantity;26.0
+Dominican Republic;El Salvador;Export Quantity;1066.0
+Dominican Republic;El Salvador;Import Quantity;23653.0
+Dominican Republic;Estonia;Export Quantity;1.0
+Dominican Republic;Finland;Export Quantity;204.0
+Dominican Republic;Finland;Import Quantity;171.0
+Dominican Republic;France;Export Quantity;13065.0
+Dominican Republic;France;Import Quantity;8312.0
+Dominican Republic;Georgia;Export Quantity;0.0
+Dominican Republic;Germany;Export Quantity;11990.0
+Dominican Republic;Germany;Import Quantity;19108.0
+Dominican Republic;Greece;Export Quantity;81.0
+Dominican Republic;Greece;Import Quantity;2592.0
+Dominican Republic;Guatemala;Export Quantity;5805.0
+Dominican Republic;Guatemala;Import Quantity;42550.0
+Dominican Republic;Guyana;Export Quantity;493.0
+Dominican Republic;Guyana;Import Quantity;14578.0
+Dominican Republic;Honduras;Export Quantity;6870.0
+Dominican Republic;Honduras;Import Quantity;9069.0
+Dominican Republic;Hungary;Export Quantity;5.0
+Dominican Republic;Hungary;Import Quantity;72.0
+Dominican Republic;Iceland;Export Quantity;54.0
+Dominican Republic;India;Export Quantity;302.0
+Dominican Republic;India;Import Quantity;11041.0
+Dominican Republic;Indonesia;Export Quantity;2312.0
+Dominican Republic;Indonesia;Import Quantity;7036.0
+Dominican Republic;Ireland;Export Quantity;2058.0
+Dominican Republic;Ireland;Import Quantity;461.0
+Dominican Republic;Israel;Export Quantity;1475.0
+Dominican Republic;Israel;Import Quantity;2.0
+Dominican Republic;Italy;Export Quantity;11747.0
+Dominican Republic;Italy;Import Quantity;9308.0
+Dominican Republic;Jamaica;Export Quantity;17901.0
+Dominican Republic;Jamaica;Import Quantity;388.0
+Dominican Republic;Japan;Export Quantity;1473.0
+Dominican Republic;Japan;Import Quantity;1.0
+Dominican Republic;Kazakhstan;Export Quantity;0.0
+Dominican Republic;Kuwait;Export Quantity;11.0
+Dominican Republic;Kyrgyzstan;Export Quantity;0.0
+Dominican Republic;Latvia;Export Quantity;2.0
+Dominican Republic;Latvia;Import Quantity;467.0
+Dominican Republic;Lebanon;Export Quantity;6.0
+Dominican Republic;Lebanon;Import Quantity;10.0
+Dominican Republic;Lithuania;Export Quantity;0.0
+Dominican Republic;Lithuania;Import Quantity;14.0
+Dominican Republic;Luxembourg;Export Quantity;0.0
+Dominican Republic;Madagascar;Export Quantity;0.0
+Dominican Republic;Madagascar;Import Quantity;22.0
+Dominican Republic;Malawi;Import Quantity;570.0
+Dominican Republic;Malaysia;Export Quantity;1137.0
+Dominican Republic;Malaysia;Import Quantity;1215.0
+Dominican Republic;Maldives;Export Quantity;0.0
+Dominican Republic;Malta;Export Quantity;41.0
+Dominican Republic;Mauritius;Export Quantity;49.0
+Dominican Republic;Mexico;Export Quantity;3570.0
+Dominican Republic;Mexico;Import Quantity;43268.0
+Dominican Republic;Morocco;Export Quantity;63.0
+Dominican Republic;Morocco;Import Quantity;347.0
+Dominican Republic;Namibia;Export Quantity;0.0
+Dominican Republic;Netherlands;Export Quantity;41128.0
+Dominican Republic;Netherlands;Import Quantity;30346.0
+Dominican Republic;New Zealand;Export Quantity;37.0
+Dominican Republic;New Zealand;Import Quantity;3526.0
+Dominican Republic;Nicaragua;Export Quantity;512.0
+Dominican Republic;Nicaragua;Import Quantity;3481.0
+Dominican Republic;North Macedonia;Export Quantity;0.0
+Dominican Republic;Norway;Export Quantity;4436.0
+Dominican Republic;Oman;Export Quantity;0.0
+Dominican Republic;Pakistan;Import Quantity;137.0
+Dominican Republic;Paraguay;Import Quantity;453.0
+Dominican Republic;Peru;Export Quantity;568.0
+Dominican Republic;Peru;Import Quantity;16048.0
+Dominican Republic;Philippines;Export Quantity;125.0
+Dominican Republic;Philippines;Import Quantity;2194.0
+Dominican Republic;Poland;Export Quantity;1265.0
+Dominican Republic;Poland;Import Quantity;724.0
+Dominican Republic;Portugal;Export Quantity;165.0
+Dominican Republic;Portugal;Import Quantity;315.0
+Dominican Republic;Republic of Korea;Export Quantity;252.0
+Dominican Republic;Republic of Korea;Import Quantity;5443.0
+Dominican Republic;Republic of Moldova;Export Quantity;0.0
+Dominican Republic;Romania;Export Quantity;11.0
+Dominican Republic;Russian Federation;Export Quantity;2043.0
+Dominican Republic;Russian Federation;Import Quantity;20.0
+Dominican Republic;Saint Kitts and Nevis;Export Quantity;133.0
+Dominican Republic;Saint Kitts and Nevis;Import Quantity;1.0
+Dominican Republic;Saint Lucia;Export Quantity;46.0
+Dominican Republic;Saint Lucia;Import Quantity;8.0
+Dominican Republic;Saint Vincent and the Grenadines;Export Quantity;61.0
+Dominican Republic;Saint Vincent and the Grenadines;Import Quantity;0.0
+Dominican Republic;Senegal;Export Quantity;0.0
+Dominican Republic;Serbia;Export Quantity;16.0
+Dominican Republic;Singapore;Export Quantity;12.0
+Dominican Republic;Singapore;Import Quantity;279.0
+Dominican Republic;Slovakia;Export Quantity;0.0
+Dominican Republic;Slovenia;Export Quantity;27.0
+Dominican Republic;South Africa;Export Quantity;24.0
+Dominican Republic;Spain;Export Quantity;17529.0
+Dominican Republic;Spain;Import Quantity;38335.0
+Dominican Republic;Sri Lanka;Export Quantity;68.0
+Dominican Republic;Sri Lanka;Import Quantity;267.0
+Dominican Republic;Suriname;Export Quantity;142.0
+Dominican Republic;Suriname;Import Quantity;100.0
+Dominican Republic;Sweden;Export Quantity;42913.0
+Dominican Republic;Sweden;Import Quantity;193.0
+Dominican Republic;Switzerland;Export Quantity;6805.0
+Dominican Republic;Switzerland;Import Quantity;180.0
+Dominican Republic;Thailand;Export Quantity;1.0
+Dominican Republic;Thailand;Import Quantity;1395.0
+Dominican Republic;Togo;Export Quantity;0.0
+Dominican Republic;Tunisia;Export Quantity;156.0
+Dominican Republic;Tunisia;Import Quantity;8.0
+Dominican Republic;Turkey;Export Quantity;1956.0
+Dominican Republic;Turkey;Import Quantity;5556.0
+Dominican Republic;Ukraine;Export Quantity;285.0
+Dominican Republic;Ukraine;Import Quantity;459.0
+Dominican Republic;United Kingdom;Export Quantity;168175.0
+Dominican Republic;United Kingdom;Import Quantity;7223.0
+Dominican Republic;United States of America;Export Quantity;469267.0
+Dominican Republic;United States of America;Import Quantity;1981688.0
+Dominican Republic;Uruguay;Export Quantity;14.0
+Dominican Republic;Uruguay;Import Quantity;9316.0
 Ecuador;Albania;Export Quantity;24075.0
 Ecuador;Algeria;Export Quantity;14022.0
 Ecuador;Argentina;Export Quantity;332254.0
@@ -10206,6 +10651,51 @@ El Salvador;Venezuela (Bolivarian Republic of);Export Quantity;31425.0
 El Salvador;Venezuela (Bolivarian Republic of);Import Quantity;3.0
 El Salvador;Viet Nam;Export Quantity;636.0
 El Salvador;Viet Nam;Import Quantity;44.0
+Eritrea;Austria;Export Quantity;0.0
+Eritrea;Austria;Import Quantity;0.0
+Eritrea;Belgium;Import Quantity;5.0
+Eritrea;Bolivia (Plurinational State of);Export Quantity;12.0
+Eritrea;Brazil;Import Quantity;34000.0
+Eritrea;Cameroon;Export Quantity;0.0
+Eritrea;Cameroon;Import Quantity;246.0
+Eritrea;Canada;Export Quantity;0.0
+Eritrea;Canada;Import Quantity;7.0
+Eritrea;China, mainland;Import Quantity;10.0
+Eritrea;Côte d'Ivoire;Export Quantity;0.0
+Eritrea;Denmark;Import Quantity;0.0
+Eritrea;Egypt;Export Quantity;336.0
+Eritrea;Egypt;Import Quantity;96442.0
+Eritrea;Fiji;Export Quantity;7.0
+Eritrea;France;Import Quantity;55.0
+Eritrea;Germany;Export Quantity;28.0
+Eritrea;Germany;Import Quantity;345.0
+Eritrea;Hungary;Import Quantity;11.0
+Eritrea;India;Import Quantity;1018.0
+Eritrea;Ireland;Export Quantity;0.0
+Eritrea;Italy;Export Quantity;14.0
+Eritrea;Italy;Import Quantity;317.0
+Eritrea;Kenya;Export Quantity;0.0
+Eritrea;Kenya;Import Quantity;254.0
+Eritrea;Malaysia;Import Quantity;9563.0
+Eritrea;Netherlands;Export Quantity;8.0
+Eritrea;Netherlands;Import Quantity;1268.0
+Eritrea;Singapore;Export Quantity;3.0
+Eritrea;South Africa;Export Quantity;0.0
+Eritrea;South Africa;Import Quantity;77.0
+Eritrea;Sri Lanka;Export Quantity;0.0
+Eritrea;Sweden;Export Quantity;0.0
+Eritrea;Sweden;Import Quantity;0.0
+Eritrea;Switzerland;Export Quantity;0.0
+Eritrea;Switzerland;Import Quantity;23.0
+Eritrea;Thailand;Import Quantity;0.0
+Eritrea;Turkey;Import Quantity;40490.0
+Eritrea;Ukraine;Import Quantity;425.0
+Eritrea;United Kingdom;Export Quantity;9.0
+Eritrea;United Kingdom;Import Quantity;1.0
+Eritrea;United Republic of Tanzania;Import Quantity;21.0
+Eritrea;United States of America;Export Quantity;29.0
+Eritrea;United States of America;Import Quantity;12.0
+Eritrea;Zambia;Export Quantity;0.0
 Estonia;Albania;Export Quantity;9.0
 Estonia;Albania;Import Quantity;296.0
 Estonia;Algeria;Export Quantity;118775.0
@@ -13496,6 +13986,132 @@ Guyana;Venezuela (Bolivarian Republic of);Export Quantity;15491.0
 Guyana;Venezuela (Bolivarian Republic of);Import Quantity;0.0
 Guyana;Viet Nam;Export Quantity;0.0
 Guyana;Viet Nam;Import Quantity;622.0
+Haiti;Algeria;Export Quantity;398.0
+Haiti;Argentina;Export Quantity;0.0
+Haiti;Argentina;Import Quantity;7043.0
+Haiti;Australia;Export Quantity;5.0
+Haiti;Australia;Import Quantity;45.0
+Haiti;Austria;Export Quantity;0.0
+Haiti;Austria;Import Quantity;635.0
+Haiti;Barbados;Export Quantity;6.0
+Haiti;Belgium;Export Quantity;33.0
+Haiti;Belgium;Import Quantity;10364.0
+Haiti;Bermuda;Export Quantity;0.0
+Haiti;Brazil;Export Quantity;3.0
+Haiti;Brazil;Import Quantity;50327.0
+Haiti;Bulgaria;Import Quantity;31.0
+Haiti;Cameroon;Export Quantity;66.0
+Haiti;Canada;Export Quantity;393.0
+Haiti;Canada;Import Quantity;85788.0
+Haiti;Chile;Export Quantity;58.0
+Haiti;Chile;Import Quantity;2632.0
+Haiti;China, Hong Kong SAR;Import Quantity;8.0
+Haiti;China, Taiwan Province of;Export Quantity;0.0
+Haiti;China, Taiwan Province of;Import Quantity;13960.0
+Haiti;China, mainland;Export Quantity;3.0
+Haiti;China, mainland;Import Quantity;23601.0
+Haiti;Colombia;Export Quantity;1.0
+Haiti;Colombia;Import Quantity;72572.0
+Haiti;Costa Rica;Export Quantity;0.0
+Haiti;Costa Rica;Import Quantity;992.0
+Haiti;Croatia;Import Quantity;117.0
+Haiti;Cyprus;Import Quantity;20.0
+Haiti;Czechia;Import Quantity;0.0
+Haiti;Côte d'Ivoire;Import Quantity;5.0
+Haiti;Denmark;Import Quantity;3.0
+Haiti;Ecuador;Import Quantity;304.0
+Haiti;Egypt;Export Quantity;0.0
+Haiti;Egypt;Import Quantity;473.0
+Haiti;El Salvador;Export Quantity;0.0
+Haiti;El Salvador;Import Quantity;2359.0
+Haiti;Estonia;Import Quantity;78.0
+Haiti;Finland;Export Quantity;0.0
+Haiti;Finland;Import Quantity;334.0
+Haiti;France;Export Quantity;480.0
+Haiti;France;Import Quantity;23502.0
+Haiti;Germany;Export Quantity;95.0
+Haiti;Germany;Import Quantity;1391.0
+Haiti;Ghana;Export Quantity;38.0
+Haiti;Greece;Import Quantity;1.0
+Haiti;Guatemala;Export Quantity;0.0
+Haiti;Guatemala;Import Quantity;57314.0
+Haiti;Guyana;Import Quantity;8220.0
+Haiti;Honduras;Import Quantity;14953.0
+Haiti;Hungary;Import Quantity;93.0
+Haiti;India;Export Quantity;11.0
+Haiti;India;Import Quantity;21074.0
+Haiti;Indonesia;Export Quantity;0.0
+Haiti;Indonesia;Import Quantity;144919.0
+Haiti;Ireland;Export Quantity;0.0
+Haiti;Ireland;Import Quantity;0.0
+Haiti;Israel;Import Quantity;0.0
+Haiti;Italy;Export Quantity;297.0
+Haiti;Italy;Import Quantity;1645.0
+Haiti;Jamaica;Export Quantity;65.0
+Haiti;Jamaica;Import Quantity;367.0
+Haiti;Japan;Export Quantity;47.0
+Haiti;Japan;Import Quantity;511.0
+Haiti;Kenya;Export Quantity;0.0
+Haiti;Kuwait;Export Quantity;0.0
+Haiti;Latvia;Import Quantity;24.0
+Haiti;Lithuania;Import Quantity;26.0
+Haiti;Malawi;Import Quantity;79.0
+Haiti;Malaysia;Export Quantity;50.0
+Haiti;Malaysia;Import Quantity;14242.0
+Haiti;Mali;Export Quantity;180.0
+Haiti;Mauritius;Export Quantity;0.0
+Haiti;Mexico;Export Quantity;3.0
+Haiti;Mexico;Import Quantity;20766.0
+Haiti;Morocco;Import Quantity;223.0
+Haiti;Netherlands;Export Quantity;430.0
+Haiti;Netherlands;Import Quantity;33483.0
+Haiti;New Zealand;Export Quantity;1.0
+Haiti;New Zealand;Import Quantity;80.0
+Haiti;Nicaragua;Export Quantity;0.0
+Haiti;Nicaragua;Import Quantity;20107.0
+Haiti;North Macedonia;Import Quantity;0.0
+Haiti;Norway;Export Quantity;0.0
+Haiti;Pakistan;Import Quantity;3963.0
+Haiti;Paraguay;Import Quantity;216.0
+Haiti;Peru;Export Quantity;0.0
+Haiti;Peru;Import Quantity;50443.0
+Haiti;Philippines;Import Quantity;64.0
+Haiti;Poland;Import Quantity;62442.0
+Haiti;Portugal;Import Quantity;51.0
+Haiti;Republic of Korea;Export Quantity;0.0
+Haiti;Republic of Korea;Import Quantity;38.0
+Haiti;Republic of Moldova;Export Quantity;0.0
+Haiti;Romania;Import Quantity;27.0
+Haiti;Russian Federation;Export Quantity;0.0
+Haiti;Russian Federation;Import Quantity;27760.0
+Haiti;Saint Lucia;Export Quantity;1.0
+Haiti;Saint Vincent and the Grenadines;Export Quantity;2.0
+Haiti;Serbia;Export Quantity;0.0
+Haiti;Serbia;Import Quantity;47.0
+Haiti;Singapore;Export Quantity;2.0
+Haiti;Singapore;Import Quantity;61.0
+Haiti;South Africa;Export Quantity;0.0
+Haiti;South Africa;Import Quantity;108.0
+Haiti;Spain;Export Quantity;166.0
+Haiti;Spain;Import Quantity;4463.0
+Haiti;Sri Lanka;Export Quantity;0.0
+Haiti;Sri Lanka;Import Quantity;0.0
+Haiti;Suriname;Import Quantity;7800.0
+Haiti;Sweden;Export Quantity;15.0
+Haiti;Sweden;Import Quantity;101.0
+Haiti;Switzerland;Export Quantity;17.0
+Haiti;Switzerland;Import Quantity;118.0
+Haiti;Thailand;Export Quantity;0.0
+Haiti;Thailand;Import Quantity;2131.0
+Haiti;Turkey;Export Quantity;0.0
+Haiti;Turkey;Import Quantity;53670.0
+Haiti;Uganda;Import Quantity;38.0
+Haiti;Ukraine;Export Quantity;0.0
+Haiti;Ukraine;Import Quantity;548.0
+Haiti;United Kingdom;Export Quantity;2.0
+Haiti;United Kingdom;Import Quantity;2779.0
+Haiti;United States of America;Export Quantity;13814.0
+Haiti;United States of America;Import Quantity;1383528.0
 Honduras;Albania;Export Quantity;19.0
 Honduras;Algeria;Export Quantity;114.0
 Honduras;Angola;Export Quantity;0.0
@@ -17521,6 +18137,96 @@ Kyrgyzstan;Uzbekistan;Export Quantity;4675.0
 Kyrgyzstan;Uzbekistan;Import Quantity;66641.0
 Kyrgyzstan;Viet Nam;Export Quantity;790.0
 Kyrgyzstan;Viet Nam;Import Quantity;481.0
+Lao People's Democratic Republic;Argentina;Import Quantity;23.0
+Lao People's Democratic Republic;Armenia;Export Quantity;0.0
+Lao People's Democratic Republic;Australia;Export Quantity;131.0
+Lao People's Democratic Republic;Australia;Import Quantity;212.0
+Lao People's Democratic Republic;Austria;Export Quantity;0.0
+Lao People's Democratic Republic;Austria;Import Quantity;1.0
+Lao People's Democratic Republic;Belgium;Export Quantity;11777.0
+Lao People's Democratic Republic;Belgium;Import Quantity;1605.0
+Lao People's Democratic Republic;Bolivia (Plurinational State of);Export Quantity;1.0
+Lao People's Democratic Republic;Brazil;Import Quantity;257.0
+Lao People's Democratic Republic;Bulgaria;Import Quantity;11.0
+Lao People's Democratic Republic;Canada;Export Quantity;84.0
+Lao People's Democratic Republic;Canada;Import Quantity;46.0
+Lao People's Democratic Republic;Chile;Import Quantity;177.0
+Lao People's Democratic Republic;China, Hong Kong SAR;Export Quantity;317.0
+Lao People's Democratic Republic;China, Hong Kong SAR;Import Quantity;10.0
+Lao People's Democratic Republic;China, Taiwan Province of;Export Quantity;4962.0
+Lao People's Democratic Republic;China, Taiwan Province of;Import Quantity;4.0
+Lao People's Democratic Republic;China, mainland;Export Quantity;425387.0
+Lao People's Democratic Republic;China, mainland;Import Quantity;16473.0
+Lao People's Democratic Republic;Czechia;Export Quantity;51.0
+Lao People's Democratic Republic;Denmark;Export Quantity;103.0
+Lao People's Democratic Republic;Denmark;Import Quantity;29.0
+Lao People's Democratic Republic;El Salvador;Import Quantity;0.0
+Lao People's Democratic Republic;Fiji;Export Quantity;0.0
+Lao People's Democratic Republic;Finland;Export Quantity;0.0
+Lao People's Democratic Republic;Finland;Import Quantity;0.0
+Lao People's Democratic Republic;France;Export Quantity;996.0
+Lao People's Democratic Republic;France;Import Quantity;479.0
+Lao People's Democratic Republic;Germany;Export Quantity;2348.0
+Lao People's Democratic Republic;Germany;Import Quantity;5459.0
+Lao People's Democratic Republic;Honduras;Import Quantity;0.0
+Lao People's Democratic Republic;Hungary;Export Quantity;58.0
+Lao People's Democratic Republic;Hungary;Import Quantity;0.0
+Lao People's Democratic Republic;Iceland;Export Quantity;1.0
+Lao People's Democratic Republic;India;Export Quantity;766.0
+Lao People's Democratic Republic;India;Import Quantity;490.0
+Lao People's Democratic Republic;Indonesia;Export Quantity;232.0
+Lao People's Democratic Republic;Indonesia;Import Quantity;118.0
+Lao People's Democratic Republic;Ireland;Export Quantity;0.0
+Lao People's Democratic Republic;Italy;Export Quantity;3438.0
+Lao People's Democratic Republic;Italy;Import Quantity;213.0
+Lao People's Democratic Republic;Japan;Export Quantity;6245.0
+Lao People's Democratic Republic;Japan;Import Quantity;130.0
+Lao People's Democratic Republic;Kuwait;Export Quantity;0.0
+Lao People's Democratic Republic;Madagascar;Export Quantity;269.0
+Lao People's Democratic Republic;Malawi;Import Quantity;138.0
+Lao People's Democratic Republic;Malaysia;Export Quantity;49.0
+Lao People's Democratic Republic;Malaysia;Import Quantity;759.0
+Lao People's Democratic Republic;Maldives;Export Quantity;0.0
+Lao People's Democratic Republic;Mauritania;Export Quantity;65.0
+Lao People's Democratic Republic;Mexico;Import Quantity;14.0
+Lao People's Democratic Republic;Netherlands;Export Quantity;1371.0
+Lao People's Democratic Republic;Netherlands;Import Quantity;439.0
+Lao People's Democratic Republic;New Zealand;Import Quantity;34.0
+Lao People's Democratic Republic;Norway;Export Quantity;44.0
+Lao People's Democratic Republic;Philippines;Import Quantity;5.0
+Lao People's Democratic Republic;Poland;Export Quantity;28331.0
+Lao People's Democratic Republic;Poland;Import Quantity;116.0
+Lao People's Democratic Republic;Portugal;Export Quantity;31078.0
+Lao People's Democratic Republic;Portugal;Import Quantity;0.0
+Lao People's Democratic Republic;Republic of Korea;Export Quantity;2023.0
+Lao People's Democratic Republic;Republic of Korea;Import Quantity;773.0
+Lao People's Democratic Republic;Romania;Import Quantity;16.0
+Lao People's Democratic Republic;Russian Federation;Export Quantity;44.0
+Lao People's Democratic Republic;Russian Federation;Import Quantity;1806.0
+Lao People's Democratic Republic;Serbia;Export Quantity;64.0
+Lao People's Democratic Republic;Seychelles;Export Quantity;0.0
+Lao People's Democratic Republic;Singapore;Export Quantity;45.0
+Lao People's Democratic Republic;Singapore;Import Quantity;244.0
+Lao People's Democratic Republic;South Africa;Export Quantity;0.0
+Lao People's Democratic Republic;South Africa;Import Quantity;53.0
+Lao People's Democratic Republic;Spain;Export Quantity;315.0
+Lao People's Democratic Republic;Spain;Import Quantity;15.0
+Lao People's Democratic Republic;Sri Lanka;Export Quantity;9.0
+Lao People's Democratic Republic;Suriname;Export Quantity;1.0
+Lao People's Democratic Republic;Sweden;Export Quantity;132.0
+Lao People's Democratic Republic;Sweden;Import Quantity;0.0
+Lao People's Democratic Republic;Switzerland;Export Quantity;56.0
+Lao People's Democratic Republic;Switzerland;Import Quantity;6.0
+Lao People's Democratic Republic;Thailand;Export Quantity;866334.0
+Lao People's Democratic Republic;Thailand;Import Quantity;857303.0
+Lao People's Democratic Republic;Turkey;Export Quantity;20.0
+Lao People's Democratic Republic;Turkey;Import Quantity;190.0
+Lao People's Democratic Republic;Ukraine;Export Quantity;330.0
+Lao People's Democratic Republic;United Kingdom;Export Quantity;430.0
+Lao People's Democratic Republic;United Kingdom;Import Quantity;33.0
+Lao People's Democratic Republic;United States of America;Export Quantity;1458.0
+Lao People's Democratic Republic;United States of America;Import Quantity;2524.0
+Lao People's Democratic Republic;Zambia;Export Quantity;0.0
 Latvia;Afghanistan;Export Quantity;1256.0
 Latvia;Afghanistan;Import Quantity;0.0
 Latvia;Albania;Export Quantity;3.0
@@ -18062,6 +18768,157 @@ Lebanon;Yemen;Import Quantity;440.0
 Lebanon;Zambia;Export Quantity;196.0
 Lebanon;Zimbabwe;Export Quantity;0.0
 Lebanon;Zimbabwe;Import Quantity;146.0
+Lesotho;Argentina;Import Quantity;199.0
+Lesotho;Belgium;Import Quantity;292.0
+Lesotho;Botswana;Export Quantity;242.0
+Lesotho;Botswana;Import Quantity;0.0
+Lesotho;Brazil;Import Quantity;632.0
+Lesotho;Canada;Export Quantity;0.0
+Lesotho;China, Taiwan Province of;Export Quantity;86.0
+Lesotho;China, Taiwan Province of;Import Quantity;484.0
+Lesotho;China, mainland;Export Quantity;2008.0
+Lesotho;China, mainland;Import Quantity;4818.0
+Lesotho;Czechia;Import Quantity;2.0
+Lesotho;Côte d'Ivoire;Import Quantity;475.0
+Lesotho;Eswatini;Export Quantity;77.0
+Lesotho;Eswatini;Import Quantity;173.0
+Lesotho;Finland;Import Quantity;0.0
+Lesotho;France;Import Quantity;8.0
+Lesotho;Germany;Export Quantity;317.0
+Lesotho;Germany;Import Quantity;2427.0
+Lesotho;India;Export Quantity;14.0
+Lesotho;India;Import Quantity;1268.0
+Lesotho;Malaysia;Import Quantity;18.0
+Lesotho;Morocco;Export Quantity;0.0
+Lesotho;Namibia;Export Quantity;0.0
+Lesotho;Namibia;Import Quantity;234.0
+Lesotho;Netherlands;Export Quantity;156.0
+Lesotho;Netherlands;Import Quantity;29.0
+Lesotho;New Zealand;Export Quantity;13.0
+Lesotho;Norway;Export Quantity;1.0
+Lesotho;Singapore;Import Quantity;0.0
+Lesotho;South Africa;Export Quantity;66650.0
+Lesotho;South Africa;Import Quantity;477845.0
+Lesotho;Spain;Import Quantity;0.0
+Lesotho;Sweden;Export Quantity;0.0
+Lesotho;Turkey;Import Quantity;74.0
+Lesotho;Uganda;Import Quantity;69.0
+Lesotho;Ukraine;Import Quantity;456.0
+Lesotho;United Kingdom;Export Quantity;417.0
+Lesotho;United Kingdom;Import Quantity;15.0
+Lesotho;United Republic of Tanzania;Export Quantity;0.0
+Lesotho;Zambia;Import Quantity;1085.0
+Liberia;Algeria;Import Quantity;405.0
+Liberia;Argentina;Import Quantity;1261.0
+Liberia;Australia;Export Quantity;21.0
+Liberia;Australia;Import Quantity;1.0
+Liberia;Austria;Import Quantity;1809.0
+Liberia;Belarus;Export Quantity;625.0
+Liberia;Belgium;Export Quantity;1132.0
+Liberia;Belgium;Import Quantity;4677.0
+Liberia;Bosnia and Herzegovina;Import Quantity;10.0
+Liberia;Brazil;Export Quantity;1391.0
+Liberia;Brazil;Import Quantity;26610.0
+Liberia;Bulgaria;Import Quantity;5575.0
+Liberia;Cameroon;Export Quantity;6504.0
+Liberia;Canada;Export Quantity;6166.0
+Liberia;Canada;Import Quantity;686.0
+Liberia;Chile;Import Quantity;273.0
+Liberia;China, Hong Kong SAR;Export Quantity;19.0
+Liberia;China, Taiwan Province of;Import Quantity;74.0
+Liberia;China, mainland;Export Quantity;628.0
+Liberia;China, mainland;Import Quantity;131726.0
+Liberia;Colombia;Import Quantity;397.0
+Liberia;Congo;Export Quantity;9.0
+Liberia;Croatia;Import Quantity;1380.0
+Liberia;Cyprus;Import Quantity;146.0
+Liberia;Czechia;Export Quantity;447.0
+Liberia;Côte d'Ivoire;Export Quantity;2528.0
+Liberia;Côte d'Ivoire;Import Quantity;8741.0
+Liberia;Denmark;Export Quantity;43.0
+Liberia;Denmark;Import Quantity;2806.0
+Liberia;Egypt;Import Quantity;56.0
+Liberia;Estonia;Import Quantity;112.0
+Liberia;Finland;Export Quantity;96.0
+Liberia;Finland;Import Quantity;420.0
+Liberia;France;Export Quantity;1593.0
+Liberia;France;Import Quantity;2575.0
+Liberia;Gambia;Export Quantity;113.0
+Liberia;Germany;Export Quantity;1369.0
+Liberia;Germany;Import Quantity;7373.0
+Liberia;Ghana;Export Quantity;889.0
+Liberia;Ghana;Import Quantity;1441.0
+Liberia;Greece;Import Quantity;488.0
+Liberia;Guyana;Import Quantity;1.0
+Liberia;Hungary;Export Quantity;706.0
+Liberia;Hungary;Import Quantity;1206.0
+Liberia;India;Export Quantity;92.0
+Liberia;India;Import Quantity;563653.0
+Liberia;Indonesia;Import Quantity;30059.0
+Liberia;Iran (Islamic Republic of);Import Quantity;33.0
+Liberia;Ireland;Export Quantity;0.0
+Liberia;Ireland;Import Quantity;1300.0
+Liberia;Israel;Import Quantity;1.0
+Liberia;Italy;Export Quantity;1096.0
+Liberia;Italy;Import Quantity;3843.0
+Liberia;Jordan;Import Quantity;265.0
+Liberia;Kenya;Export Quantity;109.0
+Liberia;Kenya;Import Quantity;0.0
+Liberia;Kuwait;Import Quantity;83.0
+Liberia;Latvia;Import Quantity;0.0
+Liberia;Lebanon;Export Quantity;15.0
+Liberia;Lebanon;Import Quantity;4786.0
+Liberia;Lithuania;Import Quantity;416.0
+Liberia;Malaysia;Export Quantity;7396.0
+Liberia;Malaysia;Import Quantity;37790.0
+Liberia;Malta;Import Quantity;208.0
+Liberia;Mauritania;Export Quantity;60.0
+Liberia;Mauritius;Export Quantity;125.0
+Liberia;Mexico;Export Quantity;1981.0
+Liberia;Mexico;Import Quantity;942.0
+Liberia;Morocco;Export Quantity;159.0
+Liberia;Morocco;Import Quantity;732.0
+Liberia;Namibia;Import Quantity;5.0
+Liberia;Netherlands;Export Quantity;13815.0
+Liberia;Netherlands;Import Quantity;26755.0
+Liberia;New Zealand;Import Quantity;25.0
+Liberia;Nicaragua;Import Quantity;5.0
+Liberia;Norway;Export Quantity;0.0
+Liberia;Norway;Import Quantity;0.0
+Liberia;Oman;Import Quantity;417.0
+Liberia;Pakistan;Import Quantity;58.0
+Liberia;Paraguay;Import Quantity;137.0
+Liberia;Peru;Export Quantity;20.0
+Liberia;Peru;Import Quantity;1144.0
+Liberia;Poland;Export Quantity;3052.0
+Liberia;Poland;Import Quantity;17622.0
+Liberia;Portugal;Export Quantity;39.0
+Liberia;Portugal;Import Quantity;989.0
+Liberia;Republic of Korea;Import Quantity;283.0
+Liberia;Russian Federation;Export Quantity;1154.0
+Liberia;Senegal;Import Quantity;358.0
+Liberia;Serbia;Export Quantity;40.0
+Liberia;Serbia;Import Quantity;402.0
+Liberia;Singapore;Export Quantity;0.0
+Liberia;Singapore;Import Quantity;280.0
+Liberia;Slovenia;Import Quantity;7.0
+Liberia;South Africa;Export Quantity;0.0
+Liberia;South Africa;Import Quantity;4298.0
+Liberia;Spain;Export Quantity;3470.0
+Liberia;Spain;Import Quantity;10694.0
+Liberia;Sri Lanka;Export Quantity;20.0
+Liberia;Sri Lanka;Import Quantity;84.0
+Liberia;Sweden;Import Quantity;327.0
+Liberia;Thailand;Import Quantity;2132.0
+Liberia;Togo;Import Quantity;1875.0
+Liberia;Tunisia;Import Quantity;663.0
+Liberia;Turkey;Export Quantity;0.0
+Liberia;Turkey;Import Quantity;13328.0
+Liberia;Ukraine;Import Quantity;6438.0
+Liberia;United Kingdom;Export Quantity;161.0
+Liberia;United Kingdom;Import Quantity;4868.0
+Liberia;United States of America;Export Quantity;35367.0
+Liberia;United States of America;Import Quantity;108347.0
 Libya;Algeria;Import Quantity;19033.0
 Libya;Argentina;Import Quantity;84339.0
 Libya;Armenia;Import Quantity;190.0
@@ -21021,6 +21878,293 @@ Morocco;Viet Nam;Import Quantity;8430.0
 Morocco;Yemen;Export Quantity;1777.0
 Morocco;Zimbabwe;Export Quantity;0.0
 Morocco;Zimbabwe;Import Quantity;41.0
+Mozambique;Argentina;Export Quantity;747.0
+Mozambique;Argentina;Import Quantity;90701.0
+Mozambique;Armenia;Import Quantity;0.0
+Mozambique;Australia;Export Quantity;47.0
+Mozambique;Australia;Import Quantity;8799.0
+Mozambique;Austria;Export Quantity;327.0
+Mozambique;Austria;Import Quantity;1122.0
+Mozambique;Belgium;Export Quantity;14452.0
+Mozambique;Belgium;Import Quantity;706.0
+Mozambique;Botswana;Export Quantity;421.0
+Mozambique;Botswana;Import Quantity;47.0
+Mozambique;Brazil;Export Quantity;899.0
+Mozambique;Brazil;Import Quantity;17850.0
+Mozambique;Bulgaria;Import Quantity;18.0
+Mozambique;Burundi;Export Quantity;4250.0
+Mozambique;Canada;Export Quantity;322.0
+Mozambique;Canada;Import Quantity;112475.0
+Mozambique;Chile;Export Quantity;18.0
+Mozambique;Chile;Import Quantity;2101.0
+Mozambique;China, Hong Kong SAR;Export Quantity;2161.0
+Mozambique;China, Hong Kong SAR;Import Quantity;145.0
+Mozambique;China, Taiwan Province of;Export Quantity;230.0
+Mozambique;China, Taiwan Province of;Import Quantity;400.0
+Mozambique;China, mainland;Export Quantity;36170.0
+Mozambique;China, mainland;Import Quantity;131083.0
+Mozambique;Colombia;Export Quantity;28.0
+Mozambique;Colombia;Import Quantity;278.0
+Mozambique;Costa Rica;Export Quantity;202.0
+Mozambique;Croatia;Export Quantity;638.0
+Mozambique;Cyprus;Export Quantity;19.0
+Mozambique;Czechia;Export Quantity;110.0
+Mozambique;Côte d'Ivoire;Export Quantity;0.0
+Mozambique;Côte d'Ivoire;Import Quantity;12.0
+Mozambique;Denmark;Export Quantity;79.0
+Mozambique;Denmark;Import Quantity;41.0
+Mozambique;Egypt;Export Quantity;8.0
+Mozambique;Egypt;Import Quantity;1123.0
+Mozambique;Eswatini;Export Quantity;12982.0
+Mozambique;Eswatini;Import Quantity;11137.0
+Mozambique;Fiji;Export Quantity;0.0
+Mozambique;Finland;Import Quantity;0.0
+Mozambique;France;Export Quantity;571.0
+Mozambique;France;Import Quantity;8926.0
+Mozambique;Germany;Export Quantity;12711.0
+Mozambique;Germany;Import Quantity;95987.0
+Mozambique;Ghana;Import Quantity;40.0
+Mozambique;Greece;Export Quantity;933.0
+Mozambique;Honduras;Export Quantity;2.0
+Mozambique;Hungary;Export Quantity;489.0
+Mozambique;Hungary;Import Quantity;95.0
+Mozambique;Iceland;Export Quantity;0.0
+Mozambique;India;Export Quantity;76303.0
+Mozambique;India;Import Quantity;18963.0
+Mozambique;Indonesia;Export Quantity;16252.0
+Mozambique;Indonesia;Import Quantity;51227.0
+Mozambique;Iran (Islamic Republic of);Import Quantity;9.0
+Mozambique;Ireland;Import Quantity;562.0
+Mozambique;Italy;Export Quantity;23384.0
+Mozambique;Italy;Import Quantity;1843.0
+Mozambique;Japan;Export Quantity;6881.0
+Mozambique;Jordan;Export Quantity;62.0
+Mozambique;Kazakhstan;Export Quantity;125.0
+Mozambique;Kenya;Export Quantity;20701.0
+Mozambique;Kenya;Import Quantity;2036.0
+Mozambique;Kuwait;Export Quantity;45.0
+Mozambique;Lebanon;Export Quantity;771.0
+Mozambique;Lebanon;Import Quantity;58.0
+Mozambique;Lithuania;Export Quantity;508.0
+Mozambique;Lithuania;Import Quantity;44000.0
+Mozambique;Madagascar;Export Quantity;3573.0
+Mozambique;Malawi;Export Quantity;22989.0
+Mozambique;Malawi;Import Quantity;20673.0
+Mozambique;Malaysia;Export Quantity;776.0
+Mozambique;Malaysia;Import Quantity;155693.0
+Mozambique;Malta;Import Quantity;5.0
+Mozambique;Mauritius;Export Quantity;5486.0
+Mozambique;Mauritius;Import Quantity;85.0
+Mozambique;Mexico;Export Quantity;1991.0
+Mozambique;Mexico;Import Quantity;213.0
+Mozambique;Morocco;Export Quantity;299.0
+Mozambique;Namibia;Export Quantity;9741.0
+Mozambique;Nepal;Export Quantity;5205.0
+Mozambique;Netherlands;Export Quantity;8214.0
+Mozambique;Netherlands;Import Quantity;5469.0
+Mozambique;New Zealand;Export Quantity;129.0
+Mozambique;New Zealand;Import Quantity;370.0
+Mozambique;North Macedonia;Export Quantity;76.0
+Mozambique;Norway;Export Quantity;9187.0
+Mozambique;Oman;Export Quantity;2025.0
+Mozambique;Pakistan;Export Quantity;1125.0
+Mozambique;Pakistan;Import Quantity;164684.0
+Mozambique;Paraguay;Import Quantity;599.0
+Mozambique;Philippines;Export Quantity;1198.0
+Mozambique;Poland;Export Quantity;6995.0
+Mozambique;Poland;Import Quantity;185975.0
+Mozambique;Portugal;Export Quantity;12667.0
+Mozambique;Portugal;Import Quantity;13392.0
+Mozambique;Republic of Korea;Export Quantity;467.0
+Mozambique;Republic of Korea;Import Quantity;1.0
+Mozambique;Romania;Export Quantity;1186.0
+Mozambique;Russian Federation;Export Quantity;5626.0
+Mozambique;Russian Federation;Import Quantity;269936.0
+Mozambique;Sao Tome and Principe;Import Quantity;0.0
+Mozambique;Senegal;Export Quantity;259.0
+Mozambique;Serbia;Export Quantity;2847.0
+Mozambique;Singapore;Export Quantity;488.0
+Mozambique;Singapore;Import Quantity;772.0
+Mozambique;South Africa;Export Quantity;247241.0
+Mozambique;South Africa;Import Quantity;675635.0
+Mozambique;Spain;Export Quantity;26065.0
+Mozambique;Spain;Import Quantity;826.0
+Mozambique;Sri Lanka;Export Quantity;1169.0
+Mozambique;Sri Lanka;Import Quantity;72.0
+Mozambique;Sweden;Export Quantity;34.0
+Mozambique;Sweden;Import Quantity;9444.0
+Mozambique;Switzerland;Export Quantity;10399.0
+Mozambique;Switzerland;Import Quantity;28.0
+Mozambique;Thailand;Export Quantity;1057.0
+Mozambique;Thailand;Import Quantity;930812.0
+Mozambique;Togo;Import Quantity;13.0
+Mozambique;Tunisia;Export Quantity;463.0
+Mozambique;Tunisia;Import Quantity;86.0
+Mozambique;Turkey;Export Quantity;12420.0
+Mozambique;Turkey;Import Quantity;1395.0
+Mozambique;Uganda;Export Quantity;21246.0
+Mozambique;Uganda;Import Quantity;225.0
+Mozambique;Ukraine;Export Quantity;3199.0
+Mozambique;Ukraine;Import Quantity;7740.0
+Mozambique;United Kingdom;Export Quantity;13236.0
+Mozambique;United Kingdom;Import Quantity;221.0
+Mozambique;United Republic of Tanzania;Export Quantity;6514.0
+Mozambique;United Republic of Tanzania;Import Quantity;1321.0
+Mozambique;United States of America;Export Quantity;21320.0
+Mozambique;United States of America;Import Quantity;90900.0
+Mozambique;Zambia;Export Quantity;16122.0
+Mozambique;Zambia;Import Quantity;11425.0
+Mozambique;Zimbabwe;Export Quantity;54154.0
+Mozambique;Zimbabwe;Import Quantity;92091.0
+Myanmar;Algeria;Export Quantity;66.0
+Myanmar;Argentina;Import Quantity;9596.0
+Myanmar;Australia;Export Quantity;1604.0
+Myanmar;Australia;Import Quantity;449946.0
+Myanmar;Austria;Import Quantity;17.0
+Myanmar;Barbados;Export Quantity;14.0
+Myanmar;Belarus;Export Quantity;3.0
+Myanmar;Belgium;Export Quantity;398274.0
+Myanmar;Belgium;Import Quantity;8300.0
+Myanmar;Bolivia (Plurinational State of);Import Quantity;3606.0
+Myanmar;Bosnia and Herzegovina;Export Quantity;101.0
+Myanmar;Brazil;Export Quantity;0.0
+Myanmar;Brazil;Import Quantity;275337.0
+Myanmar;Brunei Darussalam;Export Quantity;50.0
+Myanmar;Brunei Darussalam;Import Quantity;11.0
+Myanmar;Bulgaria;Export Quantity;2361.0
+Myanmar;Bulgaria;Import Quantity;19.0
+Myanmar;Burkina Faso;Export Quantity;121730.0
+Myanmar;Cameroon;Export Quantity;39500.0
+Myanmar;Canada;Export Quantity;4807.0
+Myanmar;Canada;Import Quantity;42631.0
+Myanmar;Chile;Import Quantity;10.0
+Myanmar;China, Hong Kong SAR;Export Quantity;3653.0
+Myanmar;China, Hong Kong SAR;Import Quantity;28.0
+Myanmar;China, Taiwan Province of;Export Quantity;23639.0
+Myanmar;China, Taiwan Province of;Import Quantity;340.0
+Myanmar;China, mainland;Export Quantity;464981.0
+Myanmar;China, mainland;Import Quantity;327535.0
+Myanmar;Colombia;Import Quantity;9437.0
+Myanmar;Croatia;Export Quantity;3300.0
+Myanmar;Cyprus;Export Quantity;113.0
+Myanmar;Cyprus;Import Quantity;244.0
+Myanmar;Czechia;Export Quantity;21732.0
+Myanmar;Czechia;Import Quantity;42.0
+Myanmar;Côte d'Ivoire;Export Quantity;151353.0
+Myanmar;Côte d'Ivoire;Import Quantity;51.0
+Myanmar;Denmark;Export Quantity;1.0
+Myanmar;Denmark;Import Quantity;327.0
+Myanmar;El Salvador;Import Quantity;6000.0
+Myanmar;Estonia;Export Quantity;400.0
+Myanmar;Fiji;Export Quantity;22.0
+Myanmar;Fiji;Import Quantity;18.0
+Myanmar;Finland;Export Quantity;0.0
+Myanmar;France;Export Quantity;41411.0
+Myanmar;France;Import Quantity;3673.0
+Myanmar;Gambia;Export Quantity;16000.0
+Myanmar;Germany;Export Quantity;59924.0
+Myanmar;Germany;Import Quantity;5462.0
+Myanmar;Ghana;Export Quantity;60.0
+Myanmar;Greece;Export Quantity;3617.0
+Myanmar;Greece;Import Quantity;156.0
+Myanmar;Guatemala;Import Quantity;41009.0
+Myanmar;Hungary;Export Quantity;469.0
+Myanmar;Hungary;Import Quantity;25.0
+Myanmar;Iceland;Export Quantity;15.0
+Myanmar;India;Export Quantity;415435.0
+Myanmar;India;Import Quantity;545362.0
+Myanmar;Indonesia;Export Quantity;157681.0
+Myanmar;Indonesia;Import Quantity;755749.0
+Myanmar;Iran (Islamic Republic of);Export Quantity;331.0
+Myanmar;Ireland;Export Quantity;378.0
+Myanmar;Ireland;Import Quantity;1519.0
+Myanmar;Israel;Import Quantity;54.0
+Myanmar;Italy;Export Quantity;15002.0
+Myanmar;Italy;Import Quantity;25982.0
+Myanmar;Japan;Export Quantity;40775.0
+Myanmar;Japan;Import Quantity;446.0
+Myanmar;Jordan;Export Quantity;153.0
+Myanmar;Kenya;Export Quantity;1828.0
+Myanmar;Kenya;Import Quantity;122.0
+Myanmar;Kuwait;Export Quantity;285.0
+Myanmar;Latvia;Export Quantity;526.0
+Myanmar;Lebanon;Export Quantity;79.0
+Myanmar;Lithuania;Export Quantity;11450.0
+Myanmar;Lithuania;Import Quantity;100.0
+Myanmar;Madagascar;Export Quantity;294800.0
+Myanmar;Madagascar;Import Quantity;12.0
+Myanmar;Malawi;Import Quantity;720.0
+Myanmar;Malaysia;Export Quantity;68332.0
+Myanmar;Malaysia;Import Quantity;228063.0
+Myanmar;Maldives;Export Quantity;36.0
+Myanmar;Mali;Export Quantity;11142.0
+Myanmar;Malta;Export Quantity;19.0
+Myanmar;Malta;Import Quantity;12.0
+Myanmar;Mauritius;Export Quantity;86.0
+Myanmar;Mexico;Export Quantity;19.0
+Myanmar;Mexico;Import Quantity;0.0
+Myanmar;Mongolia;Export Quantity;12.0
+Myanmar;Morocco;Export Quantity;51.0
+Myanmar;Morocco;Import Quantity;23946.0
+Myanmar;Nepal;Export Quantity;24504.0
+Myanmar;Netherlands;Export Quantity;57408.0
+Myanmar;Netherlands;Import Quantity;4891.0
+Myanmar;New Zealand;Export Quantity;494.0
+Myanmar;New Zealand;Import Quantity;8557.0
+Myanmar;Nicaragua;Import Quantity;3843.0
+Myanmar;North Macedonia;Export Quantity;0.0
+Myanmar;Norway;Export Quantity;73.0
+Myanmar;Oman;Export Quantity;146.0
+Myanmar;Pakistan;Export Quantity;2893.0
+Myanmar;Pakistan;Import Quantity;3584.0
+Myanmar;Paraguay;Import Quantity;44271.0
+Myanmar;Peru;Import Quantity;82.0
+Myanmar;Philippines;Export Quantity;40716.0
+Myanmar;Philippines;Import Quantity;14274.0
+Myanmar;Poland;Export Quantity;11009.0
+Myanmar;Poland;Import Quantity;7087.0
+Myanmar;Portugal;Export Quantity;5488.0
+Myanmar;Portugal;Import Quantity;86.0
+Myanmar;Republic of Korea;Export Quantity;25107.0
+Myanmar;Republic of Korea;Import Quantity;6676.0
+Myanmar;Republic of Moldova;Export Quantity;50.0
+Myanmar;Republic of Moldova;Import Quantity;21218.0
+Myanmar;Romania;Export Quantity;11347.0
+Myanmar;Romania;Import Quantity;540.0
+Myanmar;Russian Federation;Export Quantity;51425.0
+Myanmar;Russian Federation;Import Quantity;972.0
+Myanmar;Senegal;Export Quantity;19000.0
+Myanmar;Serbia;Import Quantity;187.0
+Myanmar;Singapore;Export Quantity;22139.0
+Myanmar;Singapore;Import Quantity;53973.0
+Myanmar;Slovakia;Export Quantity;216.0
+Myanmar;Slovenia;Export Quantity;16570.0
+Myanmar;Slovenia;Import Quantity;2716.0
+Myanmar;Solomon Islands;Export Quantity;72.0
+Myanmar;South Africa;Export Quantity;1666.0
+Myanmar;South Africa;Import Quantity;867.0
+Myanmar;Spain;Export Quantity;36447.0
+Myanmar;Spain;Import Quantity;1128.0
+Myanmar;Sri Lanka;Export Quantity;333395.0
+Myanmar;Sri Lanka;Import Quantity;72.0
+Myanmar;Suriname;Export Quantity;3.0
+Myanmar;Sweden;Export Quantity;0.0
+Myanmar;Sweden;Import Quantity;0.0
+Myanmar;Switzerland;Export Quantity;3348.0
+Myanmar;Switzerland;Import Quantity;122.0
+Myanmar;Thailand;Export Quantity;69049.0
+Myanmar;Thailand;Import Quantity;2155837.0
+Myanmar;Togo;Export Quantity;7332.0
+Myanmar;Tunisia;Import Quantity;542.0
+Myanmar;Turkey;Export Quantity;217.0
+Myanmar;Turkey;Import Quantity;10419.0
+Myanmar;Ukraine;Export Quantity;800.0
+Myanmar;Ukraine;Import Quantity;108766.0
+Myanmar;United Kingdom;Export Quantity;107005.0
+Myanmar;United Kingdom;Import Quantity;1946.0
+Myanmar;United States of America;Export Quantity;6155.0
+Myanmar;United States of America;Import Quantity;159081.0
+Myanmar;Uruguay;Import Quantity;125.0
 Namibia;Algeria;Import Quantity;0.0
 Namibia;Andorra;Export Quantity;0.0
 Namibia;Andorra;Import Quantity;6.0
@@ -28784,6 +29928,103 @@ Solomon Islands;Vanuatu;Export Quantity;62.0
 Solomon Islands;Vanuatu;Import Quantity;67.0
 Solomon Islands;Viet Nam;Export Quantity;2010.0
 Solomon Islands;Viet Nam;Import Quantity;65438.0
+Somalia;Algeria;Import Quantity;25.0
+Somalia;Argentina;Import Quantity;200.0
+Somalia;Armenia;Export Quantity;0.0
+Somalia;Australia;Export Quantity;2.0
+Somalia;Australia;Import Quantity;47.0
+Somalia;Austria;Export Quantity;0.0
+Somalia;Austria;Import Quantity;17.0
+Somalia;Belgium;Export Quantity;0.0
+Somalia;Belgium;Import Quantity;2934.0
+Somalia;Brazil;Import Quantity;163547.0
+Somalia;Canada;Export Quantity;3.0
+Somalia;Canada;Import Quantity;10.0
+Somalia;China, Hong Kong SAR;Export Quantity;18.0
+Somalia;China, Hong Kong SAR;Import Quantity;5.0
+Somalia;China, Taiwan Province of;Export Quantity;0.0
+Somalia;China, mainland;Export Quantity;720.0
+Somalia;China, mainland;Import Quantity;10671.0
+Somalia;Colombia;Export Quantity;0.0
+Somalia;Colombia;Import Quantity;23.0
+Somalia;Croatia;Import Quantity;38.0
+Somalia;Cyprus;Import Quantity;2635.0
+Somalia;Denmark;Import Quantity;984.0
+Somalia;Egypt;Export Quantity;20.0
+Somalia;Egypt;Import Quantity;67151.0
+Somalia;Finland;Import Quantity;0.0
+Somalia;France;Import Quantity;12155.0
+Somalia;Germany;Export Quantity;4.0
+Somalia;Germany;Import Quantity;908.0
+Somalia;Guatemala;Import Quantity;24.0
+Somalia;India;Export Quantity;1494.0
+Somalia;India;Import Quantity;1026807.0
+Somalia;Indonesia;Import Quantity;42859.0
+Somalia;Iran (Islamic Republic of);Import Quantity;3811.0
+Somalia;Ireland;Export Quantity;0.0
+Somalia;Ireland;Import Quantity;94.0
+Somalia;Italy;Import Quantity;18410.0
+Somalia;Japan;Export Quantity;233.0
+Somalia;Jordan;Export Quantity;1.0
+Somalia;Jordan;Import Quantity;377.0
+Somalia;Kazakhstan;Export Quantity;0.0
+Somalia;Kenya;Export Quantity;56.0
+Somalia;Kenya;Import Quantity;29265.0
+Somalia;Kuwait;Export Quantity;270.0
+Somalia;Lebanon;Export Quantity;1.0
+Somalia;Lebanon;Import Quantity;68.0
+Somalia;Malawi;Import Quantity;23.0
+Somalia;Malaysia;Import Quantity;88870.0
+Somalia;Malta;Import Quantity;1327.0
+Somalia;Mauritius;Import Quantity;0.0
+Somalia;Mexico;Export Quantity;0.0
+Somalia;Mexico;Import Quantity;18.0
+Somalia;Morocco;Import Quantity;9019.0
+Somalia;Netherlands;Export Quantity;10.0
+Somalia;Netherlands;Import Quantity;2629.0
+Somalia;New Zealand;Export Quantity;24.0
+Somalia;New Zealand;Import Quantity;388.0
+Somalia;Norway;Export Quantity;1.0
+Somalia;Norway;Import Quantity;0.0
+Somalia;Oman;Export Quantity;34047.0
+Somalia;Oman;Import Quantity;188056.0
+Somalia;Pakistan;Export Quantity;733.0
+Somalia;Pakistan;Import Quantity;101227.0
+Somalia;Philippines;Import Quantity;8.0
+Somalia;Poland;Import Quantity;834.0
+Somalia;Portugal;Import Quantity;43.0
+Somalia;Republic of Korea;Import Quantity;45.0
+Somalia;Republic of Moldova;Import Quantity;48.0
+Somalia;Romania;Import Quantity;25500.0
+Somalia;Russian Federation;Import Quantity;462.0
+Somalia;Serbia;Export Quantity;0.0
+Somalia;Serbia;Import Quantity;453.0
+Somalia;Singapore;Export Quantity;0.0
+Somalia;Singapore;Import Quantity;24.0
+Somalia;Slovenia;Import Quantity;87.0
+Somalia;South Africa;Export Quantity;0.0
+Somalia;South Africa;Import Quantity;2872.0
+Somalia;Spain;Import Quantity;4565.0
+Somalia;Sri Lanka;Import Quantity;6.0
+Somalia;Sweden;Export Quantity;14.0
+Somalia;Sweden;Import Quantity;0.0
+Somalia;Switzerland;Export Quantity;0.0
+Somalia;Switzerland;Import Quantity;19.0
+Somalia;Thailand;Export Quantity;10.0
+Somalia;Thailand;Import Quantity;1246.0
+Somalia;Togo;Import Quantity;25.0
+Somalia;Tunisia;Export Quantity;0.0
+Somalia;Tunisia;Import Quantity;96.0
+Somalia;Turkey;Export Quantity;0.0
+Somalia;Turkey;Import Quantity;235989.0
+Somalia;Uganda;Import Quantity;335.0
+Somalia;Ukraine;Export Quantity;0.0
+Somalia;Ukraine;Import Quantity;94110.0
+Somalia;United Kingdom;Export Quantity;29.0
+Somalia;United Kingdom;Import Quantity;366.0
+Somalia;United Republic of Tanzania;Import Quantity;415.0
+Somalia;United States of America;Export Quantity;13.0
+Somalia;United States of America;Import Quantity;90647.0
 South Africa;Afghanistan;Export Quantity;30.0
 South Africa;Afghanistan;Import Quantity;0.0
 South Africa;Albania;Export Quantity;323.0
@@ -29155,6 +30396,27 @@ South Africa;Zambia;Export Quantity;230847.0
 South Africa;Zambia;Import Quantity;196335.0
 South Africa;Zimbabwe;Export Quantity;436759.0
 South Africa;Zimbabwe;Import Quantity;49400.0
+South Sudan;Brazil;Export Quantity;5.0
+South Sudan;Brazil;Import Quantity;103.0
+South Sudan;Canada;Import Quantity;608.0
+South Sudan;China, Hong Kong SAR;Import Quantity;5.0
+South Sudan;China, mainland;Import Quantity;20031.0
+South Sudan;India;Import Quantity;284.0
+South Sudan;Kenya;Export Quantity;1.0
+South Sudan;Kenya;Import Quantity;81778.0
+South Sudan;Republic of Korea;Export Quantity;0.0
+South Sudan;South Africa;Import Quantity;21.0
+South Sudan;Switzerland;Export Quantity;0.0
+South Sudan;Switzerland;Import Quantity;42.0
+South Sudan;Thailand;Export Quantity;0.0
+South Sudan;Turkey;Export Quantity;90.0
+South Sudan;Turkey;Import Quantity;7888.0
+South Sudan;Uganda;Export Quantity;8.0
+South Sudan;Uganda;Import Quantity;314284.0
+South Sudan;Ukraine;Import Quantity;2471.0
+South Sudan;United Republic of Tanzania;Import Quantity;60.0
+South Sudan;United States of America;Export Quantity;0.0
+South Sudan;United States of America;Import Quantity;10401.0
 Spain;Afghanistan;Export Quantity;495.0
 Spain;Afghanistan;Import Quantity;0.0
 Spain;Albania;Export Quantity;8045.0
@@ -29818,6 +31080,148 @@ Sri Lanka;Viet Nam;Import Quantity;32355.0
 Sri Lanka;Yemen;Export Quantity;197.0
 Sri Lanka;Zambia;Export Quantity;18.0
 Sri Lanka;Zimbabwe;Export Quantity;48.0
+Sudan;Algeria;Export Quantity;3718.0
+Sudan;Algeria;Import Quantity;4.0
+Sudan;Antigua and Barbuda;Export Quantity;0.0
+Sudan;Argentina;Import Quantity;87059.0
+Sudan;Armenia;Export Quantity;0.0
+Sudan;Australia;Export Quantity;16.0
+Sudan;Australia;Import Quantity;4516.0
+Sudan;Austria;Import Quantity;188.0
+Sudan;Barbados;Export Quantity;1.0
+Sudan;Belarus;Export Quantity;12143.0
+Sudan;Belarus;Import Quantity;0.0
+Sudan;Belgium;Export Quantity;9724.0
+Sudan;Belgium;Import Quantity;8402.0
+Sudan;Bosnia and Herzegovina;Export Quantity;58.0
+Sudan;Brazil;Import Quantity;81970.0
+Sudan;Bulgaria;Export Quantity;66.0
+Sudan;Bulgaria;Import Quantity;171876.0
+Sudan;Burkina Faso;Export Quantity;0.0
+Sudan;Burundi;Import Quantity;736.0
+Sudan;Cameroon;Export Quantity;4196.0
+Sudan;Canada;Export Quantity;27.0
+Sudan;Canada;Import Quantity;16026.0
+Sudan;Central African Republic;Export Quantity;161.0
+Sudan;Central African Republic;Import Quantity;2.0
+Sudan;Chile;Import Quantity;498.0
+Sudan;China, Hong Kong SAR;Import Quantity;25.0
+Sudan;China, Taiwan Province of;Export Quantity;1035.0
+Sudan;China, mainland;Export Quantity;319340.0
+Sudan;China, mainland;Import Quantity;43693.0
+Sudan;Colombia;Import Quantity;13.0
+Sudan;Croatia;Import Quantity;20.0
+Sudan;Cyprus;Import Quantity;2263.0
+Sudan;Czechia;Import Quantity;0.0
+Sudan;Denmark;Import Quantity;372.0
+Sudan;Egypt;Export Quantity;36637.0
+Sudan;Egypt;Import Quantity;19709.0
+Sudan;Estonia;Export Quantity;0.0
+Sudan;France;Export Quantity;0.0
+Sudan;France;Import Quantity;28037.0
+Sudan;Georgia;Export Quantity;0.0
+Sudan;Germany;Export Quantity;4267.0
+Sudan;Germany;Import Quantity;2257.0
+Sudan;Ghana;Import Quantity;12.0
+Sudan;Greece;Export Quantity;13094.0
+Sudan;Greece;Import Quantity;2379.0
+Sudan;Guatemala;Import Quantity;285.0
+Sudan;Honduras;Export Quantity;0.0
+Sudan;Hungary;Export Quantity;72.0
+Sudan;Hungary;Import Quantity;0.0
+Sudan;India;Export Quantity;45535.0
+Sudan;India;Import Quantity;567970.0
+Sudan;Indonesia;Export Quantity;15269.0
+Sudan;Indonesia;Import Quantity;6017.0
+Sudan;Iran (Islamic Republic of);Export Quantity;6059.0
+Sudan;Iran (Islamic Republic of);Import Quantity;317.0
+Sudan;Ireland;Export Quantity;0.0
+Sudan;Ireland;Import Quantity;164.0
+Sudan;Italy;Export Quantity;32017.0
+Sudan;Italy;Import Quantity;11469.0
+Sudan;Japan;Export Quantity;48.0
+Sudan;Jordan;Export Quantity;33863.0
+Sudan;Jordan;Import Quantity;6619.0
+Sudan;Kenya;Export Quantity;93930.0
+Sudan;Kenya;Import Quantity;22978.0
+Sudan;Kuwait;Export Quantity;10147.0
+Sudan;Kuwait;Import Quantity;1033.0
+Sudan;Kyrgyzstan;Import Quantity;0.0
+Sudan;Latvia;Import Quantity;56220.0
+Sudan;Lebanon;Export Quantity;21919.0
+Sudan;Lebanon;Import Quantity;6856.0
+Sudan;Lithuania;Export Quantity;25.0
+Sudan;Lithuania;Import Quantity;40415.0
+Sudan;Luxembourg;Import Quantity;21.0
+Sudan;Madagascar;Import Quantity;29.0
+Sudan;Malawi;Import Quantity;99.0
+Sudan;Malaysia;Export Quantity;1631.0
+Sudan;Malaysia;Import Quantity;79785.0
+Sudan;Mali;Export Quantity;0.0
+Sudan;Mali;Import Quantity;69.0
+Sudan;Malta;Export Quantity;17.0
+Sudan;Malta;Import Quantity;26.0
+Sudan;Mexico;Export Quantity;442.0
+Sudan;Mexico;Import Quantity;61.0
+Sudan;Mongolia;Export Quantity;6.0
+Sudan;Morocco;Export Quantity;25.0
+Sudan;Morocco;Import Quantity;26533.0
+Sudan;Namibia;Import Quantity;0.0
+Sudan;Netherlands;Export Quantity;431.0
+Sudan;Netherlands;Import Quantity;38056.0
+Sudan;New Zealand;Import Quantity;13972.0
+Sudan;North Macedonia;Export Quantity;128.0
+Sudan;North Macedonia;Import Quantity;18.0
+Sudan;Norway;Export Quantity;11.0
+Sudan;Norway;Import Quantity;76.0
+Sudan;Oman;Export Quantity;356.0
+Sudan;Oman;Import Quantity;1651.0
+Sudan;Pakistan;Export Quantity;15989.0
+Sudan;Pakistan;Import Quantity;11271.0
+Sudan;Paraguay;Import Quantity;71.0
+Sudan;Philippines;Export Quantity;7011.0
+Sudan;Poland;Export Quantity;1538.0
+Sudan;Poland;Import Quantity;33523.0
+Sudan;Portugal;Import Quantity;122.0
+Sudan;Republic of Korea;Export Quantity;1.0
+Sudan;Republic of Korea;Import Quantity;97.0
+Sudan;Republic of Moldova;Export Quantity;0.0
+Sudan;Republic of Moldova;Import Quantity;0.0
+Sudan;Romania;Export Quantity;29886.0
+Sudan;Romania;Import Quantity;388725.0
+Sudan;Russian Federation;Export Quantity;14419.0
+Sudan;Russian Federation;Import Quantity;1545472.0
+Sudan;Seychelles;Export Quantity;0.0
+Sudan;Singapore;Export Quantity;54.0
+Sudan;Singapore;Import Quantity;411.0
+Sudan;South Africa;Export Quantity;488.0
+Sudan;South Africa;Import Quantity;1629.0
+Sudan;Spain;Export Quantity;71276.0
+Sudan;Spain;Import Quantity;3320.0
+Sudan;Sri Lanka;Export Quantity;48.0
+Sudan;Sri Lanka;Import Quantity;517.0
+Sudan;Sweden;Export Quantity;62.0
+Sudan;Sweden;Import Quantity;378.0
+Sudan;Switzerland;Export Quantity;2062.0
+Sudan;Switzerland;Import Quantity;279.0
+Sudan;Thailand;Export Quantity;70.0
+Sudan;Thailand;Import Quantity;25985.0
+Sudan;Tunisia;Export Quantity;11437.0
+Sudan;Tunisia;Import Quantity;356.0
+Sudan;Turkey;Export Quantity;50818.0
+Sudan;Turkey;Import Quantity;301115.0
+Sudan;Uganda;Export Quantity;69.0
+Sudan;Uganda;Import Quantity;42999.0
+Sudan;Ukraine;Export Quantity;6.0
+Sudan;Ukraine;Import Quantity;205894.0
+Sudan;United Kingdom;Export Quantity;18716.0
+Sudan;United Kingdom;Import Quantity;27781.0
+Sudan;United Republic of Tanzania;Export Quantity;0.0
+Sudan;United Republic of Tanzania;Import Quantity;3027.0
+Sudan;United States of America;Import Quantity;183837.0
+Sudan;Uruguay;Import Quantity;470.0
+Sudan;Zambia;Import Quantity;139.0
+Sudan;Zimbabwe;Import Quantity;12.0
 Suriname;Antigua and Barbuda;Import Quantity;27.0
 Suriname;Argentina;Import Quantity;1270.0
 Suriname;Aruba;Export Quantity;1323.0
@@ -30803,6 +32207,90 @@ Syrian Arab Republic;Uruguay;Import Quantity;304.0
 Syrian Arab Republic;Viet Nam;Export Quantity;105.0
 Syrian Arab Republic;Viet Nam;Import Quantity;21026.0
 Syrian Arab Republic;Zambia;Export Quantity;0.0
+Tajikistan;Algeria;Export Quantity;16139.0
+Tajikistan;Armenia;Export Quantity;2.0
+Tajikistan;Australia;Export Quantity;1.0
+Tajikistan;Austria;Import Quantity;372.0
+Tajikistan;Belarus;Export Quantity;671.0
+Tajikistan;Belarus;Import Quantity;33950.0
+Tajikistan;Belgium;Export Quantity;90.0
+Tajikistan;Belgium;Import Quantity;212.0
+Tajikistan;Brazil;Import Quantity;3382.0
+Tajikistan;Bulgaria;Import Quantity;3.0
+Tajikistan;Canada;Export Quantity;1.0
+Tajikistan;Canada;Import Quantity;1137.0
+Tajikistan;China, mainland;Export Quantity;2064.0
+Tajikistan;China, mainland;Import Quantity;12955.0
+Tajikistan;Czechia;Export Quantity;0.0
+Tajikistan;Czechia;Import Quantity;406.0
+Tajikistan;Denmark;Import Quantity;6.0
+Tajikistan;Ecuador;Import Quantity;1276.0
+Tajikistan;Estonia;Export Quantity;0.0
+Tajikistan;Estonia;Import Quantity;0.0
+Tajikistan;Finland;Import Quantity;80.0
+Tajikistan;France;Export Quantity;23.0
+Tajikistan;France;Import Quantity;262.0
+Tajikistan;Georgia;Import Quantity;975.0
+Tajikistan;Germany;Export Quantity;374.0
+Tajikistan;Germany;Import Quantity;499.0
+Tajikistan;Greece;Export Quantity;100.0
+Tajikistan;Guatemala;Import Quantity;22.0
+Tajikistan;Hungary;Import Quantity;375.0
+Tajikistan;India;Export Quantity;92.0
+Tajikistan;India;Import Quantity;488.0
+Tajikistan;Iran (Islamic Republic of);Export Quantity;5044.0
+Tajikistan;Iran (Islamic Republic of);Import Quantity;3674.0
+Tajikistan;Israel;Export Quantity;10.0
+Tajikistan;Italy;Export Quantity;46.0
+Tajikistan;Italy;Import Quantity;60.0
+Tajikistan;Japan;Export Quantity;7.0
+Tajikistan;Japan;Import Quantity;40.0
+Tajikistan;Jordan;Export Quantity;34.0
+Tajikistan;Jordan;Import Quantity;11.0
+Tajikistan;Kazakhstan;Export Quantity;76348.0
+Tajikistan;Kazakhstan;Import Quantity;1234533.0
+Tajikistan;Kenya;Export Quantity;0.0
+Tajikistan;Kuwait;Export Quantity;4.0
+Tajikistan;Kyrgyzstan;Export Quantity;16481.0
+Tajikistan;Kyrgyzstan;Import Quantity;4356.0
+Tajikistan;Latvia;Export Quantity;14.0
+Tajikistan;Latvia;Import Quantity;1410.0
+Tajikistan;Lebanon;Export Quantity;22.0
+Tajikistan;Lithuania;Export Quantity;0.0
+Tajikistan;Lithuania;Import Quantity;2117.0
+Tajikistan;Malaysia;Import Quantity;552.0
+Tajikistan;Mongolia;Export Quantity;4.0
+Tajikistan;Morocco;Export Quantity;30.0
+Tajikistan;Netherlands;Export Quantity;31.0
+Tajikistan;Netherlands;Import Quantity;79.0
+Tajikistan;New Zealand;Import Quantity;20.0
+Tajikistan;Pakistan;Export Quantity;3127.0
+Tajikistan;Pakistan;Import Quantity;2365.0
+Tajikistan;Poland;Export Quantity;20.0
+Tajikistan;Poland;Import Quantity;1748.0
+Tajikistan;Portugal;Export Quantity;10.0
+Tajikistan;Republic of Korea;Export Quantity;0.0
+Tajikistan;Republic of Korea;Import Quantity;218.0
+Tajikistan;Republic of Moldova;Import Quantity;85.0
+Tajikistan;Russian Federation;Export Quantity;10901.0
+Tajikistan;Russian Federation;Import Quantity;206900.0
+Tajikistan;Serbia;Export Quantity;0.0
+Tajikistan;Slovakia;Import Quantity;0.0
+Tajikistan;Slovenia;Import Quantity;40.0
+Tajikistan;Spain;Import Quantity;248.0
+Tajikistan;Sri Lanka;Import Quantity;63.0
+Tajikistan;Switzerland;Export Quantity;0.0
+Tajikistan;Switzerland;Import Quantity;21.0
+Tajikistan;Thailand;Export Quantity;297.0
+Tajikistan;Thailand;Import Quantity;4.0
+Tajikistan;Tunisia;Export Quantity;23.0
+Tajikistan;Turkey;Export Quantity;24259.0
+Tajikistan;Turkey;Import Quantity;21599.0
+Tajikistan;Ukraine;Export Quantity;433.0
+Tajikistan;Ukraine;Import Quantity;23962.0
+Tajikistan;United Kingdom;Import Quantity;1.0
+Tajikistan;United States of America;Export Quantity;36.0
+Tajikistan;United States of America;Import Quantity;3922.0
 Thailand;Afghanistan;Export Quantity;180.0
 Thailand;Albania;Export Quantity;3427.0
 Thailand;Albania;Import Quantity;0.0
@@ -32075,6 +33563,85 @@ Turkey;Zambia;Export Quantity;493.0
 Turkey;Zambia;Import Quantity;1244.0
 Turkey;Zimbabwe;Export Quantity;943.0
 Turkey;Zimbabwe;Import Quantity;2915.0
+Turkmenistan;Argentina;Import Quantity;81.0
+Turkmenistan;Armenia;Export Quantity;91.0
+Turkmenistan;Armenia;Import Quantity;342.0
+Turkmenistan;Austria;Import Quantity;577.0
+Turkmenistan;Belarus;Export Quantity;171.0
+Turkmenistan;Belarus;Import Quantity;8509.0
+Turkmenistan;Belgium;Export Quantity;367.0
+Turkmenistan;Belgium;Import Quantity;584.0
+Turkmenistan;Brazil;Import Quantity;1309.0
+Turkmenistan;Bulgaria;Import Quantity;110.0
+Turkmenistan;Canada;Export Quantity;1.0
+Turkmenistan;Canada;Import Quantity;22.0
+Turkmenistan;China, Hong Kong SAR;Export Quantity;130.0
+Turkmenistan;China, Hong Kong SAR;Import Quantity;0.0
+Turkmenistan;China, Taiwan Province of;Export Quantity;410.0
+Turkmenistan;China, mainland;Export Quantity;11950.0
+Turkmenistan;China, mainland;Import Quantity;6980.0
+Turkmenistan;Czechia;Import Quantity;2420.0
+Turkmenistan;Denmark;Import Quantity;471.0
+Turkmenistan;Egypt;Export Quantity;161.0
+Turkmenistan;Egypt;Import Quantity;2.0
+Turkmenistan;Estonia;Import Quantity;6.0
+Turkmenistan;Finland;Import Quantity;437.0
+Turkmenistan;France;Export Quantity;64.0
+Turkmenistan;France;Import Quantity;788.0
+Turkmenistan;Georgia;Export Quantity;36.0
+Turkmenistan;Georgia;Import Quantity;2627.0
+Turkmenistan;Germany;Import Quantity;3119.0
+Turkmenistan;Greece;Import Quantity;37.0
+Turkmenistan;Hungary;Import Quantity;248.0
+Turkmenistan;India;Export Quantity;2326.0
+Turkmenistan;India;Import Quantity;2541.0
+Turkmenistan;Indonesia;Export Quantity;202.0
+Turkmenistan;Indonesia;Import Quantity;1403.0
+Turkmenistan;Iran (Islamic Republic of);Export Quantity;2236.0
+Turkmenistan;Iran (Islamic Republic of);Import Quantity;244845.0
+Turkmenistan;Ireland;Import Quantity;5.0
+Turkmenistan;Italy;Export Quantity;321.0
+Turkmenistan;Italy;Import Quantity;138.0
+Turkmenistan;Kazakhstan;Export Quantity;4290.0
+Turkmenistan;Kazakhstan;Import Quantity;59227.0
+Turkmenistan;Kyrgyzstan;Export Quantity;16.0
+Turkmenistan;Kyrgyzstan;Import Quantity;227.0
+Turkmenistan;Latvia;Export Quantity;0.0
+Turkmenistan;Latvia;Import Quantity;571.0
+Turkmenistan;Lithuania;Import Quantity;1033.0
+Turkmenistan;Luxembourg;Import Quantity;8.0
+Turkmenistan;Malaysia;Export Quantity;1203.0
+Turkmenistan;Malaysia;Import Quantity;3107.0
+Turkmenistan;Morocco;Export Quantity;69.0
+Turkmenistan;Netherlands;Import Quantity;2514.0
+Turkmenistan;New Zealand;Import Quantity;39.0
+Turkmenistan;Pakistan;Export Quantity;4222.0
+Turkmenistan;Pakistan;Import Quantity;4952.0
+Turkmenistan;Paraguay;Import Quantity;25.0
+Turkmenistan;Poland;Export Quantity;20.0
+Turkmenistan;Poland;Import Quantity;9531.0
+Turkmenistan;Portugal;Export Quantity;1224.0
+Turkmenistan;Republic of Korea;Import Quantity;120.0
+Turkmenistan;Republic of Moldova;Import Quantity;51.0
+Turkmenistan;Romania;Import Quantity;21.0
+Turkmenistan;Russian Federation;Export Quantity;8380.0
+Turkmenistan;Russian Federation;Import Quantity;102318.0
+Turkmenistan;Serbia;Export Quantity;97.0
+Turkmenistan;Singapore;Import Quantity;25.0
+Turkmenistan;Slovakia;Import Quantity;692.0
+Turkmenistan;Slovenia;Import Quantity;21.0
+Turkmenistan;Spain;Export Quantity;120.0
+Turkmenistan;Spain;Import Quantity;459.0
+Turkmenistan;Sri Lanka;Import Quantity;57.0
+Turkmenistan;Sweden;Import Quantity;0.0
+Turkmenistan;Switzerland;Export Quantity;0.0
+Turkmenistan;Thailand;Export Quantity;1209.0
+Turkmenistan;Turkey;Export Quantity;89202.0
+Turkmenistan;Turkey;Import Quantity;41098.0
+Turkmenistan;Ukraine;Export Quantity;863.0
+Turkmenistan;Ukraine;Import Quantity;47833.0
+Turkmenistan;United Kingdom;Import Quantity;0.0
+Turkmenistan;United States of America;Import Quantity;2485.0
 Tuvalu;Australia;Export Quantity;4.0
 Tuvalu;Australia;Import Quantity;660.0
 Tuvalu;China, Hong Kong SAR;Import Quantity;136.0
@@ -34047,6 +35614,139 @@ Uruguay;Viet Nam;Export Quantity;3433.0
 Uruguay;Viet Nam;Import Quantity;101.0
 Uruguay;Yemen;Export Quantity;546.0
 Uruguay;Zambia;Import Quantity;40.0
+Uzbekistan;Algeria;Export Quantity;40.0
+Uzbekistan;Algeria;Import Quantity;21.0
+Uzbekistan;Antigua and Barbuda;Export Quantity;0.0
+Uzbekistan;Argentina;Export Quantity;2.0
+Uzbekistan;Argentina;Import Quantity;19.0
+Uzbekistan;Armenia;Export Quantity;415.0
+Uzbekistan;Armenia;Import Quantity;8.0
+Uzbekistan;Australia;Export Quantity;29.0
+Uzbekistan;Austria;Export Quantity;249.0
+Uzbekistan;Austria;Import Quantity;1157.0
+Uzbekistan;Barbados;Export Quantity;0.0
+Uzbekistan;Belarus;Export Quantity;5553.0
+Uzbekistan;Belarus;Import Quantity;19367.0
+Uzbekistan;Belgium;Export Quantity;272.0
+Uzbekistan;Belgium;Import Quantity;4298.0
+Uzbekistan;Bosnia and Herzegovina;Export Quantity;16.0
+Uzbekistan;Brazil;Export Quantity;0.0
+Uzbekistan;Brazil;Import Quantity;58.0
+Uzbekistan;Bulgaria;Export Quantity;49.0
+Uzbekistan;Bulgaria;Import Quantity;17.0
+Uzbekistan;Canada;Export Quantity;7.0
+Uzbekistan;Canada;Import Quantity;342.0
+Uzbekistan;Chile;Export Quantity;42.0
+Uzbekistan;Chile;Import Quantity;51.0
+Uzbekistan;China, Hong Kong SAR;Export Quantity;23.0
+Uzbekistan;China, Taiwan Province of;Export Quantity;118.0
+Uzbekistan;China, Taiwan Province of;Import Quantity;0.0
+Uzbekistan;China, mainland;Export Quantity;123667.0
+Uzbekistan;China, mainland;Import Quantity;34701.0
+Uzbekistan;Czechia;Export Quantity;80.0
+Uzbekistan;Czechia;Import Quantity;334.0
+Uzbekistan;Côte d'Ivoire;Export Quantity;1.0
+Uzbekistan;Denmark;Export Quantity;11.0
+Uzbekistan;Denmark;Import Quantity;11123.0
+Uzbekistan;Ecuador;Import Quantity;3761.0
+Uzbekistan;Egypt;Export Quantity;26.0
+Uzbekistan;Egypt;Import Quantity;424.0
+Uzbekistan;Estonia;Export Quantity;121.0
+Uzbekistan;Estonia;Import Quantity;184.0
+Uzbekistan;Finland;Import Quantity;160.0
+Uzbekistan;France;Export Quantity;316.0
+Uzbekistan;France;Import Quantity;1594.0
+Uzbekistan;Georgia;Export Quantity;2130.0
+Uzbekistan;Georgia;Import Quantity;2098.0
+Uzbekistan;Germany;Export Quantity;4006.0
+Uzbekistan;Germany;Import Quantity;9991.0
+Uzbekistan;Greece;Export Quantity;131.0
+Uzbekistan;Greece;Import Quantity;0.0
+Uzbekistan;Hungary;Export Quantity;44.0
+Uzbekistan;Hungary;Import Quantity;866.0
+Uzbekistan;Iceland;Export Quantity;5.0
+Uzbekistan;India;Export Quantity;26157.0
+Uzbekistan;India;Import Quantity;1969.0
+Uzbekistan;Indonesia;Export Quantity;920.0
+Uzbekistan;Indonesia;Import Quantity;479.0
+Uzbekistan;Iran (Islamic Republic of);Export Quantity;18468.0
+Uzbekistan;Iran (Islamic Republic of);Import Quantity;7883.0
+Uzbekistan;Ireland;Import Quantity;69.0
+Uzbekistan;Israel;Export Quantity;17.0
+Uzbekistan;Israel;Import Quantity;394.0
+Uzbekistan;Italy;Export Quantity;847.0
+Uzbekistan;Italy;Import Quantity;382.0
+Uzbekistan;Japan;Export Quantity;62.0
+Uzbekistan;Jordan;Export Quantity;117.0
+Uzbekistan;Kazakhstan;Export Quantity;504086.0
+Uzbekistan;Kazakhstan;Import Quantity;3080997.0
+Uzbekistan;Kenya;Export Quantity;0.0
+Uzbekistan;Kenya;Import Quantity;974.0
+Uzbekistan;Kuwait;Export Quantity;13.0
+Uzbekistan;Kyrgyzstan;Export Quantity;66641.0
+Uzbekistan;Kyrgyzstan;Import Quantity;4675.0
+Uzbekistan;Latvia;Export Quantity;4964.0
+Uzbekistan;Latvia;Import Quantity;3025.0
+Uzbekistan;Lebanon;Export Quantity;124.0
+Uzbekistan;Lithuania;Export Quantity;503.0
+Uzbekistan;Lithuania;Import Quantity;7088.0
+Uzbekistan;Malaysia;Export Quantity;142.0
+Uzbekistan;Malaysia;Import Quantity;7079.0
+Uzbekistan;Malta;Export Quantity;2.0
+Uzbekistan;Mexico;Export Quantity;1.0
+Uzbekistan;Mexico;Import Quantity;1566.0
+Uzbekistan;Mongolia;Export Quantity;187.0
+Uzbekistan;Mongolia;Import Quantity;0.0
+Uzbekistan;Montenegro;Export Quantity;4.0
+Uzbekistan;Morocco;Export Quantity;159.0
+Uzbekistan;Morocco;Import Quantity;0.0
+Uzbekistan;Netherlands;Export Quantity;600.0
+Uzbekistan;Netherlands;Import Quantity;11679.0
+Uzbekistan;New Zealand;Import Quantity;641.0
+Uzbekistan;North Macedonia;Export Quantity;1.0
+Uzbekistan;Norway;Export Quantity;11.0
+Uzbekistan;Oman;Export Quantity;2.0
+Uzbekistan;Pakistan;Export Quantity;1133.0
+Uzbekistan;Pakistan;Import Quantity;957.0
+Uzbekistan;Philippines;Export Quantity;143.0
+Uzbekistan;Poland;Export Quantity;546.0
+Uzbekistan;Poland;Import Quantity;7925.0
+Uzbekistan;Portugal;Export Quantity;86.0
+Uzbekistan;Republic of Korea;Export Quantity;387.0
+Uzbekistan;Republic of Korea;Import Quantity;458.0
+Uzbekistan;Republic of Moldova;Export Quantity;665.0
+Uzbekistan;Republic of Moldova;Import Quantity;773.0
+Uzbekistan;Romania;Export Quantity;10.0
+Uzbekistan;Romania;Import Quantity;52.0
+Uzbekistan;Russian Federation;Export Quantity;223593.0
+Uzbekistan;Russian Federation;Import Quantity;383337.0
+Uzbekistan;Serbia;Export Quantity;118.0
+Uzbekistan;Serbia;Import Quantity;123.0
+Uzbekistan;Singapore;Export Quantity;8.0
+Uzbekistan;Singapore;Import Quantity;0.0
+Uzbekistan;Slovakia;Export Quantity;0.0
+Uzbekistan;Slovakia;Import Quantity;20.0
+Uzbekistan;Slovenia;Export Quantity;141.0
+Uzbekistan;Slovenia;Import Quantity;35.0
+Uzbekistan;South Africa;Import Quantity;67.0
+Uzbekistan;Spain;Export Quantity;498.0
+Uzbekistan;Spain;Import Quantity;772.0
+Uzbekistan;Sri Lanka;Export Quantity;1608.0
+Uzbekistan;Sri Lanka;Import Quantity;1124.0
+Uzbekistan;Sweden;Export Quantity;54.0
+Uzbekistan;Sweden;Import Quantity;788.0
+Uzbekistan;Switzerland;Export Quantity;20.0
+Uzbekistan;Switzerland;Import Quantity;764.0
+Uzbekistan;Thailand;Export Quantity;173.0
+Uzbekistan;Thailand;Import Quantity;106.0
+Uzbekistan;Turkey;Export Quantity;25485.0
+Uzbekistan;Turkey;Import Quantity;12724.0
+Uzbekistan;Ukraine;Export Quantity;9732.0
+Uzbekistan;Ukraine;Import Quantity;25805.0
+Uzbekistan;United Kingdom;Export Quantity;67.0
+Uzbekistan;United Kingdom;Import Quantity;104.0
+Uzbekistan;United States of America;Export Quantity;2715.0
+Uzbekistan;United States of America;Import Quantity;427.0
 Vanuatu;Australia;Export Quantity;2139.0
 Vanuatu;Australia;Import Quantity;10070.0
 Vanuatu;Belgium;Export Quantity;0.0
@@ -34260,284 +35960,9 @@ Venezuela (Bolivarian Republic of);Uruguay;Import Quantity;41117.0
 Venezuela (Bolivarian Republic of);Viet Nam;Export Quantity;145.0
 Venezuela (Bolivarian Republic of);Viet Nam;Import Quantity;2881.0
 Venezuela (Bolivarian Republic of);Zambia;Export Quantity;0.0
-Viet Nam;Algeria;Export Quantity;121245.0
-Viet Nam;Algeria;Import Quantity;1390.0
-Viet Nam;Antigua and Barbuda;Export Quantity;1.0
-Viet Nam;Argentina;Export Quantity;5991.0
-Viet Nam;Argentina;Import Quantity;9039862.0
-Viet Nam;Armenia;Export Quantity;2636.0
-Viet Nam;Armenia;Import Quantity;30.0
-Viet Nam;Australia;Export Quantity;98481.0
-Viet Nam;Australia;Import Quantity;2567883.0
-Viet Nam;Austria;Export Quantity;2772.0
-Viet Nam;Austria;Import Quantity;1372.0
-Viet Nam;Azerbaijan;Export Quantity;30.0
-Viet Nam;Bahamas;Export Quantity;59.0
-Viet Nam;Bahrain;Export Quantity;2993.0
-Viet Nam;Bangladesh;Export Quantity;247472.0
-Viet Nam;Bangladesh;Import Quantity;898.0
-Viet Nam;Barbados;Export Quantity;50.0
-Viet Nam;Belarus;Export Quantity;31500.0
-Viet Nam;Belarus;Import Quantity;3979.0
-Viet Nam;Belgium;Export Quantity;76856.0
-Viet Nam;Belgium;Import Quantity;94618.0
-Viet Nam;Benin;Export Quantity;4262.0
-Viet Nam;Benin;Import Quantity;65033.0
-Viet Nam;Bermuda;Export Quantity;0.0
-Viet Nam;Bolivia (Plurinational State of);Export Quantity;232.0
-Viet Nam;Bolivia (Plurinational State of);Import Quantity;536.0
-Viet Nam;Bosnia and Herzegovina;Export Quantity;1855.0
-Viet Nam;Bosnia and Herzegovina;Import Quantity;504.0
-Viet Nam;Botswana;Import Quantity;97.0
-Viet Nam;Brazil;Export Quantity;16735.0
-Viet Nam;Brazil;Import Quantity;4043383.0
-Viet Nam;Brunei Darussalam;Export Quantity;961.0
-Viet Nam;Brunei Darussalam;Import Quantity;103.0
-Viet Nam;Bulgaria;Export Quantity;8158.0
-Viet Nam;Bulgaria;Import Quantity;1639.0
-Viet Nam;Burkina Faso;Export Quantity;945.0
-Viet Nam;Burkina Faso;Import Quantity;19402.0
-Viet Nam;Burundi;Export Quantity;0.0
-Viet Nam;Cabo Verde;Export Quantity;3667.0
-Viet Nam;Cambodia;Export Quantity;189596.0
-Viet Nam;Cambodia;Import Quantity;360648.0
-Viet Nam;Cameroon;Export Quantity;29273.0
-Viet Nam;Cameroon;Import Quantity;8657.0
-Viet Nam;Canada;Export Quantity;49585.0
-Viet Nam;Canada;Import Quantity;1087577.0
-Viet Nam;Central African Republic;Export Quantity;31.0
-Viet Nam;Chile;Export Quantity;15786.0
-Viet Nam;Chile;Import Quantity;7279.0
-Viet Nam;China, Hong Kong SAR;Export Quantity;183039.0
-Viet Nam;China, Hong Kong SAR;Import Quantity;324770.0
-Viet Nam;China, Macao SAR;Export Quantity;874.0
-Viet Nam;China, Taiwan Province of;Export Quantity;257844.0
-Viet Nam;China, Taiwan Province of;Import Quantity;150349.0
-Viet Nam;China, mainland;Export Quantity;8208033.0
-Viet Nam;China, mainland;Import Quantity;2298614.0
-Viet Nam;Colombia;Export Quantity;1122.0
-Viet Nam;Colombia;Import Quantity;4682.0
-Viet Nam;Congo;Export Quantity;972.0
-Viet Nam;Costa Rica;Export Quantity;331.0
-Viet Nam;Costa Rica;Import Quantity;581.0
-Viet Nam;Croatia;Export Quantity;2124.0
-Viet Nam;Croatia;Import Quantity;954.0
-Viet Nam;Cyprus;Export Quantity;448.0
-Viet Nam;Cyprus;Import Quantity;458.0
-Viet Nam;Czechia;Export Quantity;14400.0
-Viet Nam;Czechia;Import Quantity;2580.0
-Viet Nam;Côte d'Ivoire;Export Quantity;450893.0
-Viet Nam;Côte d'Ivoire;Import Quantity;451464.0
-Viet Nam;Democratic Republic of the Congo;Export Quantity;21116.0
-Viet Nam;Denmark;Export Quantity;3999.0
-Viet Nam;Denmark;Import Quantity;35342.0
-Viet Nam;Djibouti;Export Quantity;1109.0
-Viet Nam;Djibouti;Import Quantity;1473.0
-Viet Nam;Ecuador;Export Quantity;89.0
-Viet Nam;Ecuador;Import Quantity;34.0
-Viet Nam;Egypt;Export Quantity;18560.0
-Viet Nam;Egypt;Import Quantity;1659.0
-Viet Nam;El Salvador;Export Quantity;44.0
-Viet Nam;El Salvador;Import Quantity;636.0
-Viet Nam;Estonia;Export Quantity;532.0
-Viet Nam;Estonia;Import Quantity;24.0
-Viet Nam;Eswatini;Export Quantity;20.0
-Viet Nam;Eswatini;Import Quantity;1282.0
-Viet Nam;Fiji;Export Quantity;63453.0
-Viet Nam;Fiji;Import Quantity;575.0
-Viet Nam;Finland;Export Quantity;1462.0
-Viet Nam;Finland;Import Quantity;2889.0
-Viet Nam;France;Export Quantity;96240.0
-Viet Nam;France;Import Quantity;134402.0
-Viet Nam;Gabon;Export Quantity;9068.0
-Viet Nam;Gabon;Import Quantity;20.0
-Viet Nam;Gambia;Export Quantity;631.0
-Viet Nam;Gambia;Import Quantity;2108.0
-Viet Nam;Georgia;Export Quantity;2950.0
-Viet Nam;Georgia;Import Quantity;540.0
-Viet Nam;Germany;Export Quantity;382513.0
-Viet Nam;Germany;Import Quantity;102812.0
-Viet Nam;Ghana;Export Quantity;972969.0
-Viet Nam;Ghana;Import Quantity;97809.0
-Viet Nam;Greece;Export Quantity;5751.0
-Viet Nam;Greece;Import Quantity;9102.0
-Viet Nam;Guatemala;Export Quantity;777.0
-Viet Nam;Guatemala;Import Quantity;4893.0
-Viet Nam;Guinea;Export Quantity;5209.0
-Viet Nam;Guinea;Import Quantity;9049.0
-Viet Nam;Guyana;Export Quantity;622.0
-Viet Nam;Guyana;Import Quantity;0.0
-Viet Nam;Honduras;Export Quantity;274.0
-Viet Nam;Honduras;Import Quantity;68.0
-Viet Nam;Hungary;Export Quantity;4656.0
-Viet Nam;Hungary;Import Quantity;2690.0
-Viet Nam;Iceland;Export Quantity;210.0
-Viet Nam;Iceland;Import Quantity;39.0
-Viet Nam;India;Export Quantity;227811.0
-Viet Nam;India;Import Quantity;960935.0
-Viet Nam;Indonesia;Export Quantity;153719.0
-Viet Nam;Indonesia;Import Quantity;1147026.0
-Viet Nam;Iran (Islamic Republic of);Export Quantity;15896.0
-Viet Nam;Iran (Islamic Republic of);Import Quantity;46276.0
-Viet Nam;Ireland;Export Quantity;31544.0
-Viet Nam;Ireland;Import Quantity;5141.0
-Viet Nam;Israel;Export Quantity;13578.0
-Viet Nam;Israel;Import Quantity;1686.0
-Viet Nam;Italy;Export Quantity;169865.0
-Viet Nam;Italy;Import Quantity;80707.0
-Viet Nam;Jamaica;Export Quantity;226.0
-Viet Nam;Japan;Export Quantity;281923.0
-Viet Nam;Japan;Import Quantity;43275.0
-Viet Nam;Jordan;Export Quantity;3628.0
-Viet Nam;Jordan;Import Quantity;931.0
-Viet Nam;Kazakhstan;Export Quantity;4062.0
-Viet Nam;Kazakhstan;Import Quantity;2741.0
-Viet Nam;Kenya;Export Quantity;11784.0
-Viet Nam;Kenya;Import Quantity;9970.0
-Viet Nam;Kiribati;Export Quantity;12588.0
-Viet Nam;Kuwait;Export Quantity;8874.0
-Viet Nam;Kuwait;Import Quantity;180.0
-Viet Nam;Kyrgyzstan;Export Quantity;481.0
-Viet Nam;Kyrgyzstan;Import Quantity;790.0
-Viet Nam;Latvia;Export Quantity;1282.0
-Viet Nam;Latvia;Import Quantity;134.0
-Viet Nam;Lebanon;Export Quantity;5299.0
-Viet Nam;Lebanon;Import Quantity;285.0
-Viet Nam;Libya;Export Quantity;1805.0
-Viet Nam;Lithuania;Export Quantity;5548.0
-Viet Nam;Lithuania;Import Quantity;12058.0
-Viet Nam;Luxembourg;Export Quantity;0.0
-Viet Nam;Luxembourg;Import Quantity;0.0
-Viet Nam;Madagascar;Export Quantity;668.0
-Viet Nam;Madagascar;Import Quantity;55638.0
-Viet Nam;Malawi;Export Quantity;16.0
-Viet Nam;Malawi;Import Quantity;1281.0
-Viet Nam;Malaysia;Export Quantity;958524.0
-Viet Nam;Malaysia;Import Quantity;891272.0
-Viet Nam;Maldives;Export Quantity;2802.0
-Viet Nam;Mali;Export Quantity;636.0
-Viet Nam;Mali;Import Quantity;5622.0
-Viet Nam;Malta;Export Quantity;48.0
-Viet Nam;Mauritania;Export Quantity;186.0
-Viet Nam;Mauritania;Import Quantity;1095.0
-Viet Nam;Mauritius;Export Quantity;581.0
-Viet Nam;Mauritius;Import Quantity;8433.0
-Viet Nam;Mexico;Export Quantity;21432.0
-Viet Nam;Mexico;Import Quantity;18039.0
-Viet Nam;Mongolia;Export Quantity;18604.0
-Viet Nam;Mongolia;Import Quantity;12.0
-Viet Nam;Montenegro;Export Quantity;427.0
-Viet Nam;Morocco;Export Quantity;8430.0
-Viet Nam;Morocco;Import Quantity;195.0
-Viet Nam;Namibia;Export Quantity;102.0
-Viet Nam;Namibia;Import Quantity;432.0
-Viet Nam;Nepal;Export Quantity;12175.0
-Viet Nam;Nepal;Import Quantity;4361.0
-Viet Nam;Netherlands;Export Quantity;92514.0
-Viet Nam;Netherlands;Import Quantity;131639.0
-Viet Nam;New Zealand;Export Quantity;12979.0
-Viet Nam;New Zealand;Import Quantity;118699.0
-Viet Nam;Nicaragua;Export Quantity;454.0
-Viet Nam;Nicaragua;Import Quantity;153.0
-Viet Nam;Nigeria;Export Quantity;2959.0
-Viet Nam;Nigeria;Import Quantity;28414.0
-Viet Nam;North Macedonia;Export Quantity;1017.0
-Viet Nam;North Macedonia;Import Quantity;221.0
-Viet Nam;Norway;Export Quantity;8643.0
-Viet Nam;Norway;Import Quantity;2652.0
-Viet Nam;Oman;Export Quantity;3860.0
-Viet Nam;Oman;Import Quantity;11149.0
-Viet Nam;Pakistan;Export Quantity;38562.0
-Viet Nam;Pakistan;Import Quantity;40602.0
-Viet Nam;Panama;Export Quantity;1333.0
-Viet Nam;Papua New Guinea;Export Quantity;209329.0
-Viet Nam;Papua New Guinea;Import Quantity;0.0
-Viet Nam;Paraguay;Export Quantity;6.0
-Viet Nam;Paraguay;Import Quantity;74176.0
-Viet Nam;Peru;Export Quantity;2057.0
-Viet Nam;Peru;Import Quantity;2515.0
-Viet Nam;Philippines;Export Quantity;1295442.0
-Viet Nam;Philippines;Import Quantity;142679.0
-Viet Nam;Poland;Export Quantity;21614.0
-Viet Nam;Poland;Import Quantity;85884.0
-Viet Nam;Portugal;Export Quantity;15464.0
-Viet Nam;Portugal;Import Quantity;282.0
-Viet Nam;Qatar;Export Quantity;15361.0
-Viet Nam;Republic of Korea;Export Quantity;559035.0
-Viet Nam;Republic of Korea;Import Quantity;134540.0
-Viet Nam;Republic of Moldova;Export Quantity;1866.0
-Viet Nam;Republic of Moldova;Import Quantity;4331.0
-Viet Nam;Romania;Export Quantity;6265.0
-Viet Nam;Romania;Import Quantity;151007.0
-Viet Nam;Russian Federation;Export Quantity;202809.0
-Viet Nam;Russian Federation;Import Quantity;1872179.0
-Viet Nam;Saint Kitts and Nevis;Export Quantity;0.0
-Viet Nam;Saint Lucia;Export Quantity;0.0
-Viet Nam;Saint Vincent and the Grenadines;Export Quantity;0.0
-Viet Nam;Sao Tome and Principe;Export Quantity;312.0
-Viet Nam;Saudi Arabia;Export Quantity;100554.0
-Viet Nam;Saudi Arabia;Import Quantity;32568.0
-Viet Nam;Senegal;Export Quantity;27324.0
-Viet Nam;Senegal;Import Quantity;564.0
-Viet Nam;Serbia;Export Quantity;10039.0
-Viet Nam;Serbia;Import Quantity;1282.0
-Viet Nam;Seychelles;Export Quantity;173.0
-Viet Nam;Seychelles;Import Quantity;150.0
-Viet Nam;Sierra Leone;Export Quantity;2357.0
-Viet Nam;Sierra Leone;Import Quantity;12.0
-Viet Nam;Singapore;Export Quantity;245072.0
-Viet Nam;Singapore;Import Quantity;100017.0
-Viet Nam;Slovakia;Export Quantity;1781.0
-Viet Nam;Slovakia;Import Quantity;885.0
-Viet Nam;Slovenia;Export Quantity;2628.0
-Viet Nam;Slovenia;Import Quantity;10932.0
-Viet Nam;Solomon Islands;Export Quantity;65438.0
-Viet Nam;Solomon Islands;Import Quantity;2010.0
-Viet Nam;South Africa;Export Quantity;27784.0
-Viet Nam;South Africa;Import Quantity;40696.0
-Viet Nam;Spain;Export Quantity;145867.0
-Viet Nam;Spain;Import Quantity;43405.0
-Viet Nam;Sri Lanka;Export Quantity;32355.0
-Viet Nam;Sri Lanka;Import Quantity;33054.0
-Viet Nam;Suriname;Export Quantity;182.0
-Viet Nam;Suriname;Import Quantity;98.0
-Viet Nam;Sweden;Export Quantity;7028.0
-Viet Nam;Sweden;Import Quantity;342.0
-Viet Nam;Switzerland;Export Quantity;17651.0
-Viet Nam;Switzerland;Import Quantity;1801.0
-Viet Nam;Syrian Arab Republic;Export Quantity;21026.0
-Viet Nam;Syrian Arab Republic;Import Quantity;105.0
-Viet Nam;Thailand;Export Quantity;240430.0
-Viet Nam;Thailand;Import Quantity;1941561.0
-Viet Nam;Togo;Export Quantity;7153.0
-Viet Nam;Togo;Import Quantity;11016.0
-Viet Nam;Trinidad and Tobago;Export Quantity;1315.0
-Viet Nam;Tunisia;Export Quantity;12048.0
-Viet Nam;Tunisia;Import Quantity;3149.0
-Viet Nam;Turkey;Export Quantity;37641.0
-Viet Nam;Turkey;Import Quantity;30380.0
-Viet Nam;Uganda;Export Quantity;242.0
-Viet Nam;Uganda;Import Quantity;2200.0
-Viet Nam;Ukraine;Export Quantity;23053.0
-Viet Nam;Ukraine;Import Quantity;189523.0
-Viet Nam;United Arab Emirates;Export Quantity;113754.0
-Viet Nam;United Arab Emirates;Import Quantity;251874.0
-Viet Nam;United Kingdom;Export Quantity;101746.0
-Viet Nam;United Kingdom;Import Quantity;37883.0
-Viet Nam;United Republic of Tanzania;Export Quantity;65.0
-Viet Nam;United Republic of Tanzania;Import Quantity;244723.0
-Viet Nam;United States of America;Export Quantity;634439.0
-Viet Nam;United States of America;Import Quantity;2252865.0
-Viet Nam;Uruguay;Export Quantity;101.0
-Viet Nam;Uruguay;Import Quantity;3433.0
-Viet Nam;Vanuatu;Export Quantity;24422.0
-Viet Nam;Venezuela (Bolivarian Republic of);Export Quantity;2881.0
-Viet Nam;Venezuela (Bolivarian Republic of);Import Quantity;145.0
-Viet Nam;Yemen;Export Quantity;2118.0
-Viet Nam;Zambia;Export Quantity;2506.0
-Viet Nam;Zambia;Import Quantity;130.0
-Viet Nam;Zimbabwe;Export Quantity;0.0
-Viet Nam;Zimbabwe;Import Quantity;2.0
+Western Sahara;Canada;Export Quantity;1.0
+Western Sahara;Canada;Import Quantity;23.0
+Western Sahara;Switzerland;Export Quantity;33.0
 Yemen;Algeria;Import Quantity;152.0
 Yemen;Argentina;Import Quantity;787103.0
 Yemen;Armenia;Export Quantity;2.0
