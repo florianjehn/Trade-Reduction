@@ -23,6 +23,11 @@ trade = trade.loc[trade["Y2017"] > 0,:]
 imports = trade.loc[trade["Element"] == "Import Quantity",:]
 exports = trade.loc[trade["Element"] == "Export Quantity",:]
 
+# Test if the names are written correctly:
+for country in reducers.keys():
+    if country not in list(trade["Reporter Countries"].unique()):
+        raise NameError(country + " not in dataset. Please make sure it is spelled correctly. See code below to find all possible name")
+
 # Only consider the countries that reduce
 export_reducers = exports.loc[exports["Reporter Countries"].isin(list(reducers.keys())),:]
 
